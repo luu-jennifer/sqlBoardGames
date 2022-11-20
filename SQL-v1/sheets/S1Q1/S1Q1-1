@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">avg_raised</Data></Cell>
+			<Cell><Data ss:Type="String">outcome</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">23117.09</Data></Cell>
+			<Cell><Data ss:Type="String">successful</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5801.28</Data></Cell>
+			<Cell><Data ss:Type="String">suspended</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2929.96</Data></Cell>
+			<Cell><Data ss:Type="String">live</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2621.85</Data></Cell>
+			<Cell><Data ss:Type="String">undefined</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2180.24</Data></Cell>
+			<Cell><Data ss:Type="String">canceled</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1527.99</Data></Cell>
+			<Cell><Data ss:Type="String">failed</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

@@ -1,0 +1,1001 @@
+id,name,sub_category_id,country_id,currency_id,launched,deadline,goal,pledged,backers,outcome
+1,Ragdolls,23,2,2,"2013-04-25 00:00:00","2013-05-25 00:00:00",15000,20,3,failed
+2,"One To Ten",47,1,1,"2015-11-16 00:00:00","2015-12-16 00:00:00",223.68,413.81,23,successful
+3,"Future Gun - A short film about kids and advanced hardware",24,2,2,"2013-08-28 00:00:00","2013-09-27 00:00:00",5000,1497,28,failed
+4,"Fourth Wave Apparel—Vintage Fashion for the Modern Feminist",52,2,2,"2014-07-22 00:00:00","2014-08-21 00:00:00",6000,8795,218,successful
+5,"The Rich Lifestyle",9,2,2,"2016-08-24 00:00:00","2016-09-28 00:00:00",2000000,2,2,failed
+6,"Perils Galore!",27,2,2,"2012-09-25 00:00:00","2012-11-01 00:00:00",2500,230,5,failed
+7,"In a Dark Dark House - Directed by Larry Moss",20,2,2,"2014-07-01 00:00:00","2014-08-15 00:00:00",55000,9316,45,failed
+8,CHARLIEFOXTROTNY,23,2,2,"2014-05-21 00:00:00","2014-06-20 00:00:00",6000,161,4,failed
+9,"Fat Englishmen - Beer and Sumo",54,2,2,"2015-03-03 00:00:00","2015-04-02 00:00:00",50000,0,0,failed
+10,"bear elements old-fashioned shave and beard care for men",12,2,2,"2016-04-14 00:00:00","2016-05-14 00:00:00",12000,306,11,failed
+11,"DigIndustrial Art",97,2,2,"2014-06-19 00:00:00","2014-07-09 00:00:00",30000,111,4,failed
+12,"Expanding Farm to service the local Food Bank",107,2,2,"2016-06-13 00:00:00","2016-07-13 00:00:00",2500,405,5,failed
+13,"Church Hive. Church hiring made easy!",40,2,2,"2016-09-01 00:00:00","2016-10-01 00:00:00",16800,101,2,failed
+14,"The Visual Media Directory Project",26,2,2,"2012-03-07 00:00:00","2012-05-06 00:00:00",10000,2,2,failed
+15,"Too Sweet - The Not So Serious Side to Diabetes",10,2,2,"2014-01-16 00:00:00","2014-02-15 00:00:00",2500,2525,6,successful
+16,"“Baby Hungry” Short Film Finishing Funds",47,2,2,"2010-10-27 00:00:00","2010-11-26 00:00:00",1500,1525,23,successful
+17,"Turn "solvents-forgive yr. blood" into 12 inches of vinyl!!",3,2,2,"2011-04-20 00:00:00","2011-05-20 00:00:00",1000,1494,43,successful
+18,"Fishin' for Chickens",47,2,2,"2011-11-14 00:00:00","2011-11-30 00:00:00",2695,3667.13,75,successful
+19,"ROAM RECORD FUND",35,2,2,"2010-09-29 00:00:00","2010-10-29 00:00:00",5000,5847,99,successful
+20,"William Charles and Dirt Road Trippers NEW EP",35,2,2,"2012-10-09 00:00:00","2012-12-08 00:00:00",800,425,8,failed
+21,"Vega - Six String Theory - Alternative Rap Album Production",55,2,2,"2014-04-14 00:00:00","2014-05-14 00:00:00",3500,1,1,failed
+22,"Life Planner",8,1,1,"2015-11-09 00:00:00","2015-12-08 00:00:00",10004.09,4453.34,161,failed
+23,"Number Ten Pond - 2014 Calendar",28,2,2,"2013-07-26 00:00:00","2013-08-20 00:00:00",3800,1488,43,failed
+24,"Chosen Gospel single 'Make me a Believer'",60,1,1,"2013-08-13 00:00:00","2013-09-03 00:00:00",701.02,20.25,3,failed
+25,"OILOVE YOU",6,2,2,"2014-09-17 00:00:00","2014-11-07 00:00:00",17000,20,1,failed
+26,"Up Against The Downturn",9,2,2,"2011-06-22 00:00:00","2011-07-22 00:00:00",5600,1026,9,failed
+27,"Mosquito Wars",9,2,2,"2012-06-13 00:00:00","2012-07-13 00:00:00",15000,1401,11,failed
+28,"Bev's First Studio EP! - The Noble House of Pancake",29,2,2,"2014-11-14 00:00:00","2014-12-14 00:00:00",12000,12545,224,successful
+29,"Clean Water For Africa",2,2,2,"2014-08-12 00:00:00","2014-10-11 00:00:00",50,30,2,failed
+30,"Mercurial Theatre Presents: HP Lovecraft's "Call of Cthulhu"",111,2,2,"2017-05-09 00:00:00","2017-06-08 00:00:00",5000,1651,25,failed
+31,"BLACKOUT: The Eradication Protocols",16,2,2,"2017-05-09 00:00:00","2017-06-18 00:00:00",5200,6419,225,successful
+32,"Men's Fashion, the next big thing.",18,2,2,"2014-06-05 00:00:00","2014-07-05 00:00:00",800,0,0,failed
+33,"Jack Daniels Cake",6,2,2,"2014-07-18 00:00:00","2014-08-17 00:00:00",3000,0,0,failed
+34,"See the time in every timezone on earth on one Orbi Clock",15,2,2,"2014-02-19 00:00:00","2014-04-05 00:00:00",8900,281,5,failed
+35,"Moveable Movie Production Studios for Educators",4,7,6,"2017-01-22 00:00:00","2017-02-22 00:00:00",10608.95,0,0,failed
+36,"NASHVILLE RISES",4,2,2,"2011-01-27 00:00:00","2011-03-13 00:00:00",4000,4001,15,successful
+37,"Donald Trump Plush with Audio. Checklist on Back of Box.",8,2,2,"2016-10-11 00:00:00","2016-11-08 00:00:00",35000,185,6,failed
+38,"Mind Magnet - Watch for teaching children to stay on task",92,2,2,"2017-06-11 00:00:00","2017-07-11 00:00:00",25000,0,0,canceled
+39,"Cold War 2",44,2,2,"2014-05-11 00:00:00","2014-06-10 00:00:00",2500,281,15,failed
+40,"Jersey Shoresical:A Frickin' Rock Opera",20,2,2,"2011-06-17 00:00:00","2011-07-17 00:00:00",8000,8086,73,successful
+41,"Fridge Feet",8,2,2,"2013-12-07 00:00:00","2014-01-06 00:00:00",20000,1254,49,failed
+42,"Fat Boy's Nerd Emporium",134,2,2,"2014-07-16 00:00:00","2014-08-15 00:00:00",5000,0,0,failed
+43,"Little Fears Nightmare Edition - Blessed are the Children",14,2,2,"2013-08-22 00:00:00","2013-09-21 00:00:00",1500,9071,164,successful
+44,"Lest We Forget",16,3,3,"2016-05-12 00:00:00","2016-06-11 00:00:00",11627.01,82.16,3,failed
+45,"1000 Haiku, 1000 Strangers",1,2,2,"2010-11-20 00:00:00","2010-12-25 00:00:00",1500,5276.01,228,successful
+46,"Field Reflections: The Final Painting",59,2,2,"2012-09-12 00:00:00","2012-10-15 00:00:00",3000,4268,18,successful
+47,"The Kitchen: a space for participatory cooking & dining",6,2,2,"2012-12-06 00:00:00","2013-01-15 00:00:00",40000,45026,309,successful
+48,"The Harriet Experiment",9,2,2,"2012-01-18 00:00:00","2012-03-18 00:00:00",70000,7071,91,failed
+49,"The Modern Day Briefcase",8,2,2,"2016-03-01 00:00:00","2016-04-16 00:00:00",40000,242014,1287,successful
+50,"TOGA: The Holder | Upgrade | Keychain for EOS® Lip Balms",8,2,2,"2016-10-05 00:00:00","2016-11-04 00:00:00",5000,912,19,canceled
+51,"Grain35: Beautiful 35mm Film Grain Scans For Your DSLR Video",58,2,2,"2012-03-21 00:00:00","2012-04-11 00:00:00",15000,26206,255,successful
+52,"FLIE Rings - Colorful Anodized Aluminum Rings for Life",34,2,2,"2015-08-06 00:00:00","2015-09-05 00:00:00",2000,10604,285,successful
+53,""Friday Night Monkey Fights" the Mobile App!",44,2,2,"2012-01-12 00:00:00","2012-02-11 00:00:00",30000,30,2,failed
+54,GIULIA,47,2,2,"2012-04-05 00:00:00","2012-05-15 00:00:00",6000,6000,35,successful
+55,"Personalised full length novels for children",74,1,1,"2017-05-16 00:00:00","2017-06-15 00:00:00",6384.55,40.86,1,failed
+56,"Publish my first horror novel, make a trailer & short films",98,2,2,"2014-07-15 00:00:00","2014-08-14 00:00:00",20000,310,3,failed
+57,"1,000 Stars Festival, Documentary ",9,2,2,"2009-09-28 00:00:00","2009-10-24 00:00:00",5000,5117,32,successful
+58,"Fittersift: Introducing Responsive Textile Technology",52,2,2,"2014-12-15 00:00:00","2015-01-29 00:00:00",25000,978,8,failed
+59,"Jake Jude T-Shirt (Official)",52,2,2,"2014-09-15 00:00:00","2014-09-29 00:00:00",375,0,0,failed
+60,"Chris Henry and The Hardcore Grass",3,2,2,"2012-06-08 00:00:00","2012-07-08 00:00:00",10000,2470,46,failed
+61,"A wee Coffee",7,1,1,"2015-09-08 00:00:00","2015-10-09 00:00:00",33746.99,15.34,1,failed
+62,"The Horde and the Harem - Full Length Album!",29,2,2,"2011-05-05 00:00:00","2011-07-04 00:00:00",5000,5475,55,successful
+63,"Letters To Me",10,2,2,"2017-07-11 00:00:00","2017-08-30 00:00:00",50000,4373,30,canceled
+64,"Knight's Destiny - Dungeon RPG/MMORPG",44,2,2,"2014-01-01 00:00:00","2014-02-15 00:00:00",4000,306,9,failed
+65,"Creatures of Habitat For Sale",20,2,2,"2010-01-01 00:00:00","2010-02-14 00:00:00",2222,2246,56,successful
+66,"Online therapist directory - Click For Therapy (Canceled)",40,1,1,"2015-09-17 00:00:00","2015-10-17 00:00:00",41590.93,0,0,canceled
+67,"Lick My Assise!",8,2,2,"2015-09-30 00:00:00","2015-10-30 00:00:00",50000,300,2,failed
+68,"New EP from Jon Swift",3,2,2,"2012-03-03 00:00:00","2012-03-17 00:00:00",2500,2880,61,successful
+69,"Punch'em Scrunch'em Robots",14,2,2,"2015-07-04 00:00:00","2015-08-03 00:00:00",7000,1752,38,failed
+70,"WE MEAN YOU NO HARM",2,2,2,"2014-10-13 00:00:00","2014-11-06 00:00:00",8000,8046,60,successful
+71,"Behind the Lens: Charlotte",61,2,2,"2014-04-29 00:00:00","2014-05-29 00:00:00",10000,0,0,failed
+72,"Blit - Mobile App to Screenshot Websites with Login",50,2,2,"2017-11-15 00:00:00","2017-12-27 00:00:00",5000,57,2,failed
+73,""Must Be Nice" at the Fillet of Solo Festival in Chicago",20,2,2,"2011-06-13 00:00:00","2011-07-13 00:00:00",740,870,17,successful
+74,"The Return Voyage of Christopher Mackenzie",3,2,2,"2012-04-04 00:00:00","2012-04-18 00:00:00",1500,1592,57,successful
+75,NOZ,8,2,2,"2015-09-28 00:00:00","2015-11-27 00:00:00",25000,668,26,failed
+76,"Club Universe",48,2,2,"2012-03-17 00:00:00","2012-04-16 00:00:00",10000,0,0,failed
+77,"Taft Sturgeon",16,2,2,"2017-07-06 00:00:00","2017-07-30 00:00:00",4000,4063,103,successful
+78,"Samuel B. Lupowitz & The Ego Band - first album release",35,2,2,"2012-04-06 00:00:00","2012-05-19 00:00:00",2000,2345,40,successful
+79,"Bringing Jamaican Patties To Your Neck Of The Wood",5,2,2,"2015-04-09 00:00:00","2015-06-08 00:00:00",125000,206,3,failed
+80,"THE AVENUE",119,2,2,"2015-09-29 00:00:00","2015-10-29 00:00:00",2500,2500,39,successful
+81,"Personalized Picture Slide Lamps",8,2,2,"2015-01-09 00:00:00","2015-02-08 00:00:00",75,1,1,failed
+82,"Drone on the Farm: An Aerial Exposé",94,2,2,"2014-06-09 00:00:00","2014-07-09 00:00:00",30000,75064.49,1312,successful
+83,"Employee evaluation and performance management web app",37,1,1,"2017-08-22 00:00:00","2017-09-21 00:00:00",2035.22,67.84,1,failed
+84,"Berghain: A Game for 2–6 Players About Getting In",14,12,8,"2016-11-07 00:00:00","2016-12-07 00:00:00",9806.06,6720.96,240,suspended
+85,""Deferral": A Video Installation by EL Putnam",76,2,2,"2011-03-15 00:00:00","2011-04-30 00:00:00",1000,5,1,failed
+86,"Help Lancaster Make Their Next Album!",35,2,2,"2014-03-07 00:00:00","2014-04-06 00:00:00",15750,2587.11,29,failed
+87,"DAME - Introvert Dame - "Bad Biti" Music Video First Single",55,2,2,"2017-11-21 00:00:00","2017-12-21 00:00:00",600,0,0,failed
+88,"Steve Shane's "Every Pretty Smile" Music Video",29,2,2,"2011-04-21 00:00:00","2011-05-21 00:00:00",2000,2251,52,successful
+89,"Carousel Love (Canceled)",31,1,1,"2014-11-05 00:00:00","2014-12-05 00:00:00",3921.45,54.9,1,canceled
+90,"Maggie, Therapy Dog in Training's 1st Car Sticker Pre-Order!",26,2,2,"2015-07-10 00:00:00","2015-07-19 00:00:00",500,61,4,failed
+91,"Metro760 LGBT Newspaper for the Palm Springs CA area",46,11,2,"2015-02-06 00:00:00","2015-02-28 00:00:00",7500,0,0,undefined
+92,"Ahead of the Chains",10,2,2,"2017-10-18 00:00:00","2017-11-27 00:00:00",9000,9170,53,successful
+93,"Tiles Publications",1,2,2,"2014-07-15 00:00:00","2014-08-16 00:00:00",4000,711,20,failed
+94,"Nudz: Banishing Beige as the Default Nude for Lingerie",18,2,2,"2015-07-13 00:00:00","2015-08-19 00:00:00",30000,31376,108,successful
+95,"THE WINGCASE - The Smartest Briefcase in the World.",8,7,6,"2016-10-03 00:00:00","2016-11-02 00:00:00",27732.48,55619.77,166,successful
+96,"The Yowler: a community built DIY noise synth",83,4,4,"2016-11-30 00:00:00","2017-01-01 00:00:00",2934.7,6883.35,105,successful
+97,"Natalie Wells Band brand new recording project!",35,2,2,"2013-05-25 00:00:00","2013-06-24 00:00:00",6750,2245,32,failed
+98,"Central Florida Music Commissioning Project",3,2,2,"2016-07-06 00:00:00","2016-08-05 00:00:00",18000,1979,16,canceled
+99,"LFC & LOCO Bubble Soccer (Canceled)",13,2,2,"2016-02-12 00:00:00","2016-03-14 00:00:00",50000,5816,24,canceled
+100,""My Favorite Color is Brown"",74,2,2,"2011-12-26 00:00:00","2012-02-24 00:00:00",5000,20,1,failed
+101,"UBER Taxi Cab Confessions",10,2,2,"2017-02-18 00:00:00","2017-03-25 00:00:00",1500,9,1,canceled
+102,"Enamel Pin: Stay the Course",34,3,3,"2017-07-12 00:00:00","2017-08-01 00:00:00",795.42,465.32,27,failed
+103,"Mal-Mart Mega Store - Burning Man 2010",76,2,2,"2010-07-28 00:00:00","2010-08-23 00:00:00",1500,1620,16,successful
+104,"Try and Review all the Microwave Recipes I Ever Find",51,2,2,"2015-02-23 00:00:00","2015-03-25 00:00:00",100,0,0,failed
+105,"Gluten Free Cookies with an Old Fashioned Taste!",6,2,2,"2012-09-19 00:00:00","2012-11-05 00:00:00",10000,1486,27,failed
+106,"The Demons Within",33,2,2,"2017-10-01 00:00:00","2017-11-05 00:00:00",2200,2225,48,successful
+107,"Pro Pinball®: Revived & Remastered",44,2,2,"2012-09-05 00:00:00","2012-10-05 00:00:00",400000,174010.09,1296,failed
+108,"BlueKangaroo - Do more with your Bluetooth Location Trackers",58,2,2,"2016-04-19 00:00:00","2016-05-24 00:00:00",8000,1028,24,failed
+109,"Breaker Blocks",14,2,2,"2015-11-12 00:00:00","2015-12-12 00:00:00",8000,1643,55,failed
+110,"My Hip Hop Debut: The Yamazawa EP",55,2,2,"2016-01-20 00:00:00","2016-02-12 00:00:00",3000,4229,81,successful
+111,"Translation for my father's novel",143,2,2,"2011-04-05 00:00:00","2011-07-04 00:00:00",12000,12080,30,successful
+112,""An Adventure with Friends", a family friendly comedy",4,2,2,"2011-08-30 00:00:00","2011-09-29 00:00:00",12000,225,3,failed
+113,SPOUGEFEST,60,2,2,"2016-03-26 00:00:00","2016-05-24 00:00:00",25000,50,1,failed
+114,"Become a part of Papi Churro - THE NEXT CHAPTER!",25,14,6,"2017-12-08 00:00:00","2018-01-07 00:00:00",6068.48,2230.77,9,live
+115,Dogbed,8,2,2,"2016-01-08 00:00:00","2016-02-07 00:00:00",2000,30,2,failed
+116,"Gothic Line Museum - Il Museo della Linea Gotica",31,6,6,"2017-11-13 00:00:00","2018-01-12 00:00:00",121369.53,316.77,4,live
+117,"Paul Dietrich Quintet debut album - "We Always Get There"",41,2,2,"2013-10-31 00:00:00","2013-11-28 00:00:00",3000,3260,77,successful
+118,"A Story about an alcoholic wizard who fucks bitches.",33,2,2,"2015-08-06 00:00:00","2015-09-05 00:00:00",500,10,2,failed
+119,"EAST Urban Salsa",100,2,2,"2016-04-01 00:00:00","2016-05-01 00:00:00",8000,0,0,failed
+120,"VR Homebox",50,2,2,"2015-10-01 00:00:00","2015-11-20 00:00:00",200000,170,5,failed
+121,"Colour Chess + Lure - Two games, one colourful board!",14,1,1,"2017-03-24 00:00:00","2017-04-14 00:00:00",4472.39,4864.68,81,successful
+122,"The Truckiest Truck",40,2,2,"2017-07-02 00:00:00","2017-08-01 00:00:00",210,80,6,failed
+123,"THE CANDYMAN: He mixes it with love",6,2,2,"2015-04-07 00:00:00","2015-05-17 00:00:00",20000,150,2,failed
+124,"Michael fitness You-tuber Channel",9,1,1,"2015-01-02 00:00:00","2015-02-01 00:00:00",3829.48,3.06,2,failed
+125,"the Kurdi Margolis Wright Trio @ CCLC Trescott ME",111,2,2,"2016-03-23 00:00:00","2016-04-02 00:00:00",600,20,1,failed
+126,"Clive Barker Presents: The Sickness - A Trailer with Bite",47,2,2,"2011-06-21 00:00:00","2011-07-21 00:00:00",7500,7800,69,successful
+127,"Lost Orchards Finish Long Forgotten EP",11,2,2,"2012-10-03 00:00:00","2012-12-02 00:00:00",700,734.5,34,successful
+128,"Sindicate  3D - Rol Game",66,10,6,"2015-08-27 00:00:00","2015-09-26 00:00:00",22319.93,0,0,failed
+129,"Between the Shadow and the Soul",57,2,2,"2012-07-24 00:00:00","2012-09-10 00:00:00",1000,1000,21,successful
+130,"The Step Afrika! Experience! ",57,2,2,"2010-10-11 00:00:00","2010-11-25 00:00:00",2500,2685,18,successful
+131,"Tell Me Something",10,2,2,"2013-03-07 00:00:00","2013-04-06 00:00:00",20000,26936.4,445,successful
+132,"My First Fiction Novel",33,2,2,"2015-02-19 00:00:00","2015-04-20 00:00:00",12000,0,0,failed
+133,"One Country United (Canceled)",52,2,2,"2016-06-24 00:00:00","2016-07-24 00:00:00",8000,0,0,canceled
+134,"Groove in the Grove",3,2,2,"2015-07-09 00:00:00","2015-07-30 00:00:00",300,0,0,failed
+135,""The Vicarious Eye"Artist's Residency with a conscience",26,2,2,"2013-11-22 00:00:00","2013-12-22 00:00:00",4303,0,0,canceled
+136,"? Infinity Edition Galaxy Cards ?",14,2,2,"2013-10-09 00:00:00","2013-10-17 00:00:00",88,4587,155,successful
+137,"Catch the Leprechaun",66,2,2,"2015-03-05 00:00:00","2015-04-04 00:00:00",450,0,0,failed
+138,"COUPLE FRIENDS, a comedy short",47,2,2,"2015-03-19 00:00:00","2015-04-18 00:00:00",5000,5001,68,successful
+139,"Insecticides made using Olive Oil & other Edible Ingredients",107,2,2,"2015-08-31 00:00:00","2015-09-30 00:00:00",8700,2046,15,failed
+140,"American retro diner",5,10,6,"2015-12-10 00:00:00","2016-01-09 00:00:00",218281.04,0,0,failed
+141,"BICYCLE DAY Lives!!!!",4,2,2,"2013-02-26 00:00:00","2013-03-28 00:00:00",5000,5316,81,successful
+142,"THE PRESIDENT CAPTURED: THE DOCUMENTARY",9,2,2,"2015-07-02 00:00:00","2015-08-10 00:00:00",19995,2751,14,failed
+143,"Aki - The Best Minimalist Bifold Slim Wallet",8,4,4,"2015-10-06 00:00:00","2015-11-20 00:00:00",3604.64,93856.97,1415,successful
+144,"March Forth",33,2,2,"2016-02-09 00:00:00","2016-02-24 00:00:00",1000,26,2,failed
+145,"Rediscovering authentic & stunning home cooking.",6,2,2,"2016-01-28 00:00:00","2016-02-27 00:00:00",4500,1,1,failed
+146,"Invitations and Party Decorations",89,2,2,"2014-07-12 00:00:00","2014-08-26 00:00:00",400,0,0,failed
+147,"Faire De Largent Mula",52,2,2,"2015-02-09 00:00:00","2015-03-11 00:00:00",20000,0,0,failed
+148,"Super Awesome scavanger hunt (Suspended)",13,2,2,"2013-01-02 00:00:00","2013-02-16 00:00:00",250,0,0,suspended
+149,"Earthly Pleasures: A Fashion Film",47,1,1,"2013-06-12 00:00:00","2013-07-01 00:00:00",2994.15,3048.04,21,successful
+150,"Patrick and Cris Make A Movie (and you get a copy)",2,2,2,"2010-06-04 00:00:00","2010-07-25 00:00:00",50000,5558,42,failed
+151,"Wonder Sneakers: The Truly Hands-free Sneakers",8,20,12,"2016-12-24 00:00:00","2017-02-02 00:00:00",73460.23,593.09,20,canceled
+152,"The Rainbow Journal. Poetry of the Armageddon.",1,2,2,"2012-03-03 00:00:00","2012-05-02 00:00:00",1000,0,0,failed
+153,"Playing Cards The Venture Deck RE-LAUNCH By GilaFiction",89,2,2,"2015-10-06 00:00:00","2015-11-07 00:00:00",950,2512,107,successful
+154,"BUNNY RACKET - A rock 'n' roll web series for kids!",23,4,4,"2016-09-01 00:00:00","2016-10-01 00:00:00",37901.76,38423.29,297,successful
+155,""I Want Some Nasty" San Antonio Spurs t-shirt",18,2,2,"2012-05-30 00:00:00","2012-06-14 00:00:00",850,0,0,failed
+156,"For What it's Worth",109,1,1,"2016-03-17 00:00:00","2016-04-11 00:00:00",1276.23,1418.04,36,successful
+157,Postscript,33,2,2,"2012-04-19 00:00:00","2012-05-29 00:00:00",100,25,2,failed
+158,"Support Brooklyn Youth Media Projects!",47,2,2,"2010-11-17 00:00:00","2010-12-11 00:00:00",2000,4736,57,successful
+159,"She Inspires 365",17,2,2,"2012-04-17 00:00:00","2012-05-22 00:00:00",10000,10538.02,185,successful
+160,"Jesus Christ Superstar-Indiana",20,2,2,"2012-04-25 00:00:00","2012-06-24 00:00:00",3200,500,1,failed
+161,"Protect or Infect",14,2,2,"2013-03-16 00:00:00","2013-04-15 00:00:00",15000,3221,50,failed
+162,"'Gone Missing' Kickstarter for Studio 301 Productions",129,2,2,"2015-02-09 00:00:00","2015-03-02 00:00:00",750,755,8,successful
+163,"M.A.D. a Web Series",62,2,2,"2017-03-06 00:00:00","2017-04-15 00:00:00",2000,6,2,failed
+164,"Editing "Blind Faith"",33,2,2,"2014-03-13 00:00:00","2014-04-27 00:00:00",2500,100,2,failed
+165,"The Coal War – a documentary about hope, change, and one unstoppable grandmother",9,2,2,"2010-06-01 00:00:00","2010-07-18 00:00:00",13125,5465.02,96,failed
+166,"TRI Magazine",46,8,6,"2015-01-22 00:00:00","2015-02-21 00:00:00",11240,563.12,16,failed
+167,"Mobile/Tablet In Game Advertising & Interactive Games Studio",66,2,2,"2014-05-15 00:00:00","2014-06-14 00:00:00",89000,0,0,failed
+168,"The Adventures of HarleyQuinn",74,1,1,"2013-02-19 00:00:00","2013-03-21 00:00:00",910.98,921.61,19,successful
+169,"Through The Rough (Canceled)",40,2,2,"2015-05-27 00:00:00","2015-06-26 00:00:00",20000,0,0,canceled
+170,"COOPER'S PROMISE, a novel",33,2,2,"2011-11-16 00:00:00","2012-01-15 00:00:00",1000,2556,60,successful
+171,"2031 Film",112,1,1,"2014-10-30 00:00:00","2014-11-17 00:00:00",548.88,619.45,18,successful
+172,"Sean Sullivan Photography - The Thrasher years - book",28,2,2,"2014-01-03 00:00:00","2014-02-02 00:00:00",15000,443.25,18,failed
+173,"My Alibi Clothing~ Bloomers & Beyond",18,2,2,"2012-05-09 00:00:00","2012-06-09 00:00:00",25000,25815,213,successful
+174,"Escultura Venezolana En Nieve/ Venezuelan Snow Sculpture",82,3,3,"2016-11-21 00:00:00","2016-12-21 00:00:00",3495.63,42.92,3,failed
+175,"Kegged homebrew for all!",22,2,2,"2014-08-08 00:00:00","2014-09-04 00:00:00",440,586,17,successful
+176,"Robotech Take Over",33,2,2,"2014-08-01 00:00:00","2014-08-31 00:00:00",100000000,3577,27,failed
+177,"Finding our Spirit (Canceled)",28,2,2,"2015-01-28 00:00:00","2015-02-27 00:00:00",15000,0,0,canceled
+178,"Bethany Barnard",3,2,2,"2016-09-26 00:00:00","2016-10-26 00:00:00",20000,25201,860,successful
+179,"What Might Have Been",33,2,2,"2012-06-06 00:00:00","2012-06-27 00:00:00",2100,5,1,failed
+180,"Purple Heart Acres Challenge Coin Fundraiser",8,2,2,"2015-08-28 00:00:00","2015-09-12 00:00:00",1500,2295,24,successful
+181,"Simple Work Attendance Sheet (S.work.a.S.)",37,6,6,"2015-10-12 00:00:00","2015-11-06 00:00:00",1412.32,17.38,1,failed
+182,"Finally For Ever - Eric Fritts Debut Album",3,2,2,"2015-03-02 00:00:00","2015-03-31 00:00:00",10000,11722,170,successful
+183,"the GLIDEARM",105,2,2,"2015-12-08 00:00:00","2016-01-20 00:00:00",25000,35987,85,successful
+184,Risenfall,79,6,6,"2015-09-06 00:00:00","2015-10-12 00:00:00",4316.81,6300.27,224,successful
+185,"Relics and Cycledelics",31,2,2,"2014-10-07 00:00:00","2014-11-01 00:00:00",1200,489,9,failed
+186,"The Background of Anne",10,2,2,"2015-06-24 00:00:00","2015-07-01 00:00:00",10000,0,0,failed
+187,"Democracy and Freedom for China",93,3,3,"2014-12-03 00:00:00","2015-02-01 00:00:00",8035.36,8.04,3,failed
+188,"Travel Thru History - Educational Television Series",4,2,2,"2012-03-10 00:00:00","2012-03-31 00:00:00",5000,5226,32,successful
+189,"Wooden Jigsaw Puzzles by Hartwig Braun",113,1,1,"2014-10-13 00:00:00","2014-11-12 00:00:00",15654.6,2044.49,23,failed
+190,"Experiment Z: Multiplayer Zombie Survival on Mobile",66,3,3,"2015-10-11 00:00:00","2015-11-10 00:00:00",37579.86,22.55,2,canceled
+191,"Las Escrituras Satánicas by Peter H. Gilmore",10,2,2,"2012-04-30 00:00:00","2012-06-10 00:00:00",9000,10694.67,83,successful
+192,"Help me cook a £10,000 curry",100,1,1,"2015-03-30 00:00:00","2015-04-04 00:00:00",14591.3,1.46,1,failed
+193,"Rosetta: A Lua hardware platform",103,2,2,"2015-06-22 00:00:00","2015-07-22 00:00:00",100000,801,9,failed
+194,"Mourning Star's 1st 4 albums",3,2,2,"2014-07-22 00:00:00","2014-08-21 00:00:00",14000,0,0,failed
+195,"Queen City Hornets T-Shirt",18,2,2,"2012-07-29 00:00:00","2012-08-22 00:00:00",2500,1075,43,failed
+196,Mistakes,4,2,2,"2016-08-31 00:00:00","2016-09-24 00:00:00",1000,55,3,failed
+197,"The Evon Enamel Pin Preorder!",34,2,2,"2017-07-14 00:00:00","2017-08-13 00:00:00",770,236,15,failed
+198,"The Conversation",47,2,2,"2013-11-21 00:00:00","2014-01-16 00:00:00",5000,1310,20,failed
+199,"Ryan Snook's Thesis Film "META"",62,3,3,"2017-10-13 00:00:00","2017-11-07 00:00:00",197.32,285.71,8,successful
+200,"The End War",9,2,2,"2013-01-12 00:00:00","2013-01-23 00:00:00",500,66,4,failed
+201,"#ClearBackstop (Canceled)",8,2,2,"2015-04-06 00:00:00","2015-05-03 00:00:00",27494,0,0,canceled
+202,"Making Bubbles",2,1,1,"2014-06-13 00:00:00","2014-07-28 00:00:00",1261.93,1406.1,57,successful
+203,"Air Guitar Move for iPhone",44,2,2,"2011-06-11 00:00:00","2011-07-11 00:00:00",25000,31776,193,successful
+204,"Masters of Blöödirön (Canceled)",14,2,2,"2015-06-03 00:00:00","2015-06-24 00:00:00",4600,270,18,canceled
+205,"CAMP - The Center for Advanced Media Production",4,2,2,"2014-05-17 00:00:00","2014-06-16 00:00:00",23000,81,3,failed
+206,"Twelve Months of Healing, the Veil of Womanhood:",31,2,2,"2013-03-25 00:00:00","2013-04-24 00:00:00",20000,345,6,failed
+207,"CristaLight: Offer a piece of jewelry to your home.",8,19,6,"2017-10-04 00:00:00","2017-11-03 00:00:00",23314.1,638.81,4,canceled
+208,"F(r)aming Reflections",93,2,2,"2011-08-22 00:00:00","2011-09-22 00:00:00",650,740,20,successful
+209,"The North Pole: A Comedic Web Series for The People",23,2,2,"2017-01-30 00:00:00","2017-03-01 00:00:00",25000,25648,282,successful
+210,"The Free Art Project goes to Berlin",31,2,2,"2013-06-04 00:00:00","2013-07-02 00:00:00",1500,1681,30,successful
+211,"Football As Football - Merchandise",89,2,2,"2014-06-09 00:00:00","2014-07-09 00:00:00",45000,8141,159,failed
+212,"Buddhist Geeks Conference 2012",58,2,2,"2011-09-07 00:00:00","2011-10-22 00:00:00",20000,25751,150,successful
+213,"Beyond Clueless",9,1,1,"2012-12-15 00:00:00","2013-01-14 00:00:00",15119.2,19106.52,505,successful
+214,"My First Emotions - Children's Educational Toolkit",46,1,1,"2017-05-03 00:00:00","2017-06-02 00:00:00",6426.74,6428.02,32,successful
+215,"FOREVERSE Virtual Reality Event Series",44,2,2,"2017-04-09 00:00:00","2017-05-09 00:00:00",600000,451,9,canceled
+216,"18 Days in Egypt",58,2,2,"2012-01-20 00:00:00","2012-02-19 00:00:00",18000,20142.18,325,successful
+217,"The City",21,2,2,"2011-07-20 00:00:00","2011-09-18 00:00:00",3000,136,5,failed
+218,"Space Chronicles - MMORPG Browser Game",44,6,6,"2016-01-09 00:00:00","2016-03-09 00:00:00",5545.02,31.05,6,failed
+219,"SCORE FOR AN UNREHEARSED ENSEMBLE",57,2,2,"2012-05-09 00:00:00","2012-06-13 00:00:00",3000,3582.45,89,successful
+220,""Wizard Alchemy" Poetry Gazette from Word Wizards Press",1,2,2,"2015-11-01 00:00:00","2015-12-01 00:00:00",88489,0,0,failed
+221,"Help A LouSir Make His First Album",55,2,2,"2014-10-16 00:00:00","2014-11-15 00:00:00",3000,110,2,failed
+222,"Let's Get A Keg!",87,2,2,"2015-08-18 00:00:00","2015-08-28 00:00:00",100,30,2,suspended
+223,"Thoughts & Recreation - First issue of our new magazine",94,1,1,"2013-04-03 00:00:00","2013-05-03 00:00:00",1555.45,466.64,14,failed
+224,""STRANDED!",47,2,2,"2013-01-31 00:00:00","2013-03-05 00:00:00",6250,3175,50,failed
+225,"Change Address",40,2,2,"2015-05-19 00:00:00","2015-07-18 00:00:00",200000,0,0,failed
+226,"GO!CATCHER!!! — Paper Toys With Digital Play",146,20,12,"2017-05-26 00:00:00","2017-06-26 00:00:00",3843.79,1160.18,17,failed
+227,"Lego stop motion and gaming commentary",4,4,4,"2015-02-05 00:00:00","2015-03-07 00:00:00",114.92,0,0,failed
+228,"Onward To Yesterday! Jim Tyrrell finally hits the road.",91,2,2,"2010-10-27 00:00:00","2010-12-26 00:00:00",2000,2342,18,successful
+229,"Wabash Brewing - Nano Custom Brewing",7,2,2,"2014-06-03 00:00:00","2014-07-03 00:00:00",16000,17176.12,99,successful
+230,"productpure EA-Free Baby Bottle Goes Far Beyond BPA-Free",8,2,2,"2016-04-11 00:00:00","2016-05-11 00:00:00",15000,260,4,failed
+231,"Student Film Festival",4,2,2,"2014-01-10 00:00:00","2014-02-09 00:00:00",2500,2510,31,successful
+232,"Learn Basic Programming",58,2,2,"2015-01-04 00:00:00","2015-02-18 00:00:00",1500,201,6,failed
+233,"The Wild Mural",26,2,2,"2012-07-01 00:00:00","2012-08-15 00:00:00",7000,7184,42,successful
+234,"Pilot From Zero Book",10,2,2,"2017-02-06 00:00:00","2017-03-08 00:00:00",5000,0,0,failed
+235,"L.A. Vida Skate Supply Launch",8,2,2,"2014-07-28 00:00:00","2014-08-27 00:00:00",1000,0,0,failed
+236,"Passing Shot: Dice Tennis Game",14,2,2,"2011-12-29 00:00:00","2012-01-28 00:00:00",500,813,30,successful
+237,"Boxxle- Premium Cask Wine Dispenser",8,2,2,"2011-05-13 00:00:00","2011-08-11 00:00:00",75000,8567.77,59,failed
+238,"Tales From The Jumpseat - Pilot Episode",23,2,2,"2017-02-19 00:00:00","2017-03-21 00:00:00",1300,1603,45,successful
+239,"Derby Panther Marching Band Weathers the Storm",3,2,2,"2016-05-12 00:00:00","2016-06-01 00:00:00",3500,4080,56,successful
+240,"Established UK Streetwear brand to global market leader.",18,1,1,"2014-02-24 00:00:00","2014-04-10 00:00:00",17567.93,393.19,12,failed
+241,"Erstellung eines Bildbandes für Gnadenhöfe",61,7,6,"2016-09-13 00:00:00","2016-11-12 00:00:00",21258.05,86.1,3,failed
+242,"RoVR - Your New Virtual Best Friend!",44,2,2,"2017-08-15 00:00:00","2017-09-15 00:00:00",30000,6504.01,148,canceled
+243,"Scales Secrets Shop",12,2,2,"2014-09-19 00:00:00","2014-11-18 00:00:00",500,120,7,failed
+244,"Long Beach Kombucha (Canceled)",6,2,2,"2014-07-15 00:00:00","2014-08-14 00:00:00",4400,0,0,canceled
+245,"Undetermined Destiny, The Dark Way Down",66,2,2,"2014-06-27 00:00:00","2014-07-27 00:00:00",5000,738,19,failed
+246,"Eugenic Death "Under The Knife" (Canceled)",53,2,2,"2016-01-04 00:00:00","2016-02-03 00:00:00",1200,25,1,canceled
+247,"Stimulator Album #4 - Susan Hyatt and Geoff Tyson United",35,2,2,"2012-05-05 00:00:00","2012-06-19 00:00:00",5550,260,5,failed
+248,"The Wardenclyffe Horror",21,2,2,"2012-10-12 00:00:00","2012-11-16 00:00:00",9800,10652.42,238,successful
+249,"Abrax Games moving up in the world (Youtube Funding)",36,1,1,"2014-07-16 00:00:00","2014-08-15 00:00:00",333.8,0,0,failed
+250,"ThamesLark (Canceled)",108,1,1,"2014-08-01 00:00:00","2014-08-31 00:00:00",13036.75,0,0,canceled
+251,"Brent Lawrence & Scruffy Dogma Debut Recording Project",3,2,2,"2012-04-03 00:00:00","2012-05-03 00:00:00",1500,0,0,failed
+252,"Etalon is your reflection. Create your perfect bag!",34,10,6,"2015-06-05 00:00:00","2015-07-10 00:00:00",41384.71,612.94,12,failed
+253,"Forge Brew Works",6,2,2,"2013-03-05 00:00:00","2013-04-04 00:00:00",10000,22064,174,successful
+254,FIVE,79,2,2,"2017-10-23 00:00:00","2017-11-27 00:00:00",15000,20731.33,199,successful
+255,"Phantom Ice Maker | Seven Clear, Slow-Melting Ice Shapes",8,2,2,"2017-10-25 00:00:00","2017-11-25 00:00:00",50000,424615,3015,successful
+256,"Legacy of Atlantis",21,2,2,"2013-12-14 00:00:00","2014-01-13 00:00:00",4000,241,7,failed
+257,"Manny Manriquez' new rock opera journey: Outland Warrior",35,2,2,"2015-06-05 00:00:00","2015-07-05 00:00:00",3500,4343,63,successful
+258,"Mason Sylvester S/S '13 New York Fashion Week Show",18,2,2,"2012-07-23 00:00:00","2012-08-06 00:00:00",3000,25,1,failed
+259,Corporate-TV,136,7,6,"2017-04-08 00:00:00","2017-05-09 00:00:00",54379.74,1.09,1,failed
+260,"Three Richmond-Themed Posters, Metallic Duo-Tone",89,2,2,"2014-02-03 00:00:00","2014-02-18 00:00:00",2200,457,12,failed
+261,"The Dream Diaries",9,2,2,"2012-03-26 00:00:00","2012-04-25 00:00:00",17500,2587,52,failed
+262,"THE BEAUTIFUL DEAD",4,2,2,"2012-04-13 00:00:00","2012-06-12 00:00:00",8500,9000,56,successful
+263,"Flyshark:To Redefine The Wireless Keyboard",39,2,2,"2014-08-05 00:00:00","2014-09-09 00:00:00",30000,61422.7,800,successful
+264,Wisp,44,2,2,"2012-07-19 00:00:00","2012-08-18 00:00:00",4000,2879.66,147,failed
+265,"Cigars and the Meaning of Life",10,2,2,"2014-07-31 00:00:00","2014-08-30 00:00:00",4500,21,2,failed
+266,"Muscle Macros Food Truck",25,2,2,"2017-04-27 00:00:00","2017-05-04 00:00:00",2500,2500,12,successful
+267,"Book Project Ready to Go",33,2,2,"2009-12-03 00:00:00","2010-02-27 00:00:00",4000,50,1,failed
+268,"Cardiff Wings - Sleep. Made. Easy",8,2,2,"2016-08-17 00:00:00","2016-09-24 00:00:00",20000,5621,44,failed
+269,"NYOBI #2",16,3,3,"2015-12-16 00:00:00","2016-01-15 00:00:00",860.76,1901.25,99,successful
+270,"The Chronicles of Faro Continues -- Play The Devil's Hand",16,2,2,"2015-04-03 00:00:00","2015-06-02 00:00:00",8600,14450,226,successful
+271,"50's - 60's Musical Revue with skits",20,2,2,"2015-02-25 00:00:00","2015-03-18 00:00:00",5000,0,0,failed
+272,"blipcast | Send TV Audio to your Smartphone's Headphones",36,2,2,"2016-01-05 00:00:00","2016-02-01 00:00:00",100000,37994.34,413,failed
+273,"Badassical #3 (a sci-fi adventure comic)",16,3,3,"2017-06-30 00:00:00","2017-07-30 00:00:00",3181.67,14539.85,283,successful
+274,"The Eighth Floor",47,2,2,"2015-11-29 00:00:00","2015-12-29 00:00:00",3360,815,13,failed
+275,"How NOT to Use the Book of the Dead",4,2,2,"2013-07-12 00:00:00","2013-09-10 00:00:00",100000,62.66,6,failed
+276,"Threaten The Body, Destroy The Mind",10,2,2,"2013-03-20 00:00:00","2013-04-19 00:00:00",3600,196,7,failed
+277,"DEBORAH a pendant lamp.",8,9,7,"2017-08-31 00:00:00","2017-10-05 00:00:00",2973.46,3250.26,51,successful
+278,"4 Color Press for 5th Street Garment Company",18,2,2,"2013-09-11 00:00:00","2013-10-11 00:00:00",800,0,0,failed
+279,"Purrito Cat",31,2,2,"2017-03-30 00:00:00","2017-04-29 00:00:00",350,365,14,successful
+280,"Hooked -Track Phone Usage and Discover New Population Habits",50,10,6,"2016-01-15 00:00:00","2016-02-09 00:00:00",5468.36,180.4,2,failed
+281,"Luna Noel | Earth Mood Perfumes",12,2,2,"2017-07-07 00:00:00","2017-08-06 00:00:00",75000,9666,53,canceled
+282,Past,62,2,2,"2015-06-06 00:00:00","2015-08-05 00:00:00",110000,11,2,failed
+283,"Art For All Year - 2014",93,2,2,"2014-01-10 00:00:00","2014-02-09 00:00:00",6600,311,6,failed
+284,"Bloody Mess",79,1,1,"2014-11-23 00:00:00","2015-01-12 00:00:00",6828.11,1722.2,41,failed
+285,"Karen Townsend (and the "Recordions") There Is No Bottom",91,2,2,"2012-05-10 00:00:00","2012-05-28 00:00:00",800,1056,42,successful
+286,"ComiCase:  Relaunch - Revolutionary Mylar Display Cases",21,2,2,"2013-12-13 00:00:00","2014-01-12 00:00:00",12675,6347,94,failed
+287,"Victory at Sea. A Naval War Game for mobile, PC & Mac",44,1,1,"2013-05-01 00:00:00","2013-05-31 00:00:00",38089.43,473.83,21,failed
+288,"Amare Dolls - Talaya: A Fantasy Ball Joint Doll",82,1,1,"2015-01-15 00:00:00","2015-02-14 00:00:00",2460.1,2743.01,35,successful
+289,"Dirty Santa: The Official Christmas Party Game",70,2,2,"2017-11-07 00:00:00","2017-11-18 00:00:00",3000,1323,44,failed
+290,"Big Game Jerky USA . COM",87,2,2,"2015-04-27 00:00:00","2015-05-12 00:00:00",2000,24,2,failed
+291,"Sacimals - Stuffed Animal Furniture",8,2,2,"2013-08-09 00:00:00","2013-09-09 00:00:00",38150,4361,42,failed
+292,"Ambition Handicapped by Laziness",1,15,9,"2015-07-03 00:00:00","2015-08-01 00:00:00",1971.74,6.57,1,failed
+293,"Monkey Chef #2",16,2,2,"2014-05-06 00:00:00","2014-06-05 00:00:00",3500,4052,125,successful
+294,"Little Training Book Series",74,2,2,"2013-11-17 00:00:00","2013-12-17 00:00:00",1500,21,2,failed
+295,"Spicy Goodness - Spice Recipes From Around the World",51,4,4,"2014-09-16 00:00:00","2014-10-16 00:00:00",878.5,43.93,1,canceled
+296,"Life's a beach...",139,4,4,"2015-12-14 00:00:00","2016-01-13 00:00:00",20845.92,1.37,2,failed
+297,"the Human Light Suit )'( Burning Man 2013",28,2,2,"2013-07-30 00:00:00","2013-08-14 00:00:00",4700,5656,74,successful
+298,"Swedish Folk Music Treasures",60,2,2,"2014-04-26 00:00:00","2014-05-26 00:00:00",5000,6190,64,successful
+299,"Help save Studio 2 Leederville. Art space and event venue",31,4,4,"2015-06-09 00:00:00","2015-07-24 00:00:00",7991.28,1481.29,22,failed
+300,""Represent" Web Series (Canceled)",23,2,2,"2016-03-17 00:00:00","2016-04-16 00:00:00",3300,40,2,canceled
+301,"Marina's Mind",74,2,2,"2012-02-12 00:00:00","2012-03-13 00:00:00",850,270,8,failed
+302,"kill yourself zine",17,2,2,"2012-04-10 00:00:00","2012-05-10 00:00:00",300,83,11,failed
+303,"Nature Photography",28,2,2,"2014-03-05 00:00:00","2014-03-11 00:00:00",2600,0,0,failed
+304,"Handmade Pocket squares by sharpfellas.com (Canceled)",52,3,3,"2014-06-13 00:00:00","2014-07-13 00:00:00",6514.66,439.27,7,canceled
+305,"The Eubie Live Project",41,2,2,"2012-06-13 00:00:00","2012-07-13 00:00:00",4000,725,15,failed
+306,"Penn State SOMA Arts Crawl 2013",76,2,2,"2013-03-06 00:00:00","2013-03-30 00:00:00",800,806,20,successful
+307,"Jitter Bus Coffee",25,2,2,"2015-03-10 00:00:00","2015-04-09 00:00:00",5000,5260,43,successful
+308,"Universal Plate Holder",58,4,4,"2017-07-08 00:00:00","2017-08-07 00:00:00",7863.49,24.38,3,failed
+309,"Surreal Art Exhibition Tour of "The Wrong Alice"",59,1,1,"2015-07-13 00:00:00","2015-09-01 00:00:00",4872.4,114.2,4,failed
+310,"The Dove - short thriller film reminiscent of classic horror",47,2,2,"2011-02-22 00:00:00","2011-05-15 00:00:00",1500,1525,24,successful
+311,"VIS - 'Useful Power'",39,2,2,"2015-02-18 00:00:00","2015-03-30 00:00:00",30000,62367,431,successful
+312,"The Batik Fabric & Clothing Lifestyle",18,2,2,"2013-02-06 00:00:00","2013-03-08 00:00:00",1500,100,1,failed
+313,"Global Water Shortage: The Fracking Water Loss Theory!",85,2,2,"2016-08-04 00:00:00","2016-09-03 00:00:00",30000,70,4,failed
+314,"Midwest Underground",23,2,2,"2012-02-11 00:00:00","2012-03-16 00:00:00",10000,10121.73,41,successful
+315,"SWANKY SHAMPANE project",20,2,2,"2011-03-04 00:00:00","2011-04-19 00:00:00",30000,1010,6,failed
+316,"HST - Anti Cyber Hacking  Hidden Sovereign Technology",37,12,8,"2016-01-11 00:00:00","2016-02-10 00:00:00",357747.62,0,0,failed
+317,"I'm bringing good music back! Fans of Faith No More rejoice!",35,2,2,"2015-06-11 00:00:00","2015-07-11 00:00:00",3100,0,0,failed
+318,"Scream Guitars are playable electric guitars with custom art",97,2,2,"2014-11-06 00:00:00","2014-12-06 00:00:00",25000,9,6,failed
+319,"Buddha World",9,2,2,"2011-07-28 00:00:00","2011-08-27 00:00:00",4000,4081,41,successful
+320,"Jewelry In The Heart",106,2,2,"2017-03-05 00:00:00","2017-04-04 00:00:00",10000,0,0,failed
+321,"Goth Homme world tour 2018 (pt 1 of 10)",3,2,2,"2016-12-25 00:00:00","2017-02-23 00:00:00",6666,0,0,canceled
+322,"INTO MYSTERY: Clue 08  Tamref",8,2,2,"2013-06-27 00:00:00","2013-08-25 00:00:00",18537,4280.66,86,failed
+323,"Bikepacking the Ring Road",9,2,2,"2014-05-12 00:00:00","2014-05-31 00:00:00",4000,780,8,failed
+324,"Maria Cardelli Luxury Fashion Accessories",34,14,6,"2015-03-05 00:00:00","2015-04-04 00:00:00",58135.23,2100.27,4,failed
+325,"Innovative American Mind: Crowd-Sourced Innovation Stories",10,2,2,"2013-09-08 00:00:00","2013-10-08 00:00:00",14250,1170,13,failed
+326,"ANGELIC WARS (GRAPHIC NOVEL)",21,2,2,"2013-08-14 00:00:00","2013-09-13 00:00:00",1500,64,6,failed
+327,"launch of New Visions Art Studio",77,2,2,"2016-06-07 00:00:00","2016-07-06 00:00:00",10000,0,0,failed
+328,"The Get Away Kids",47,2,2,"2015-01-30 00:00:00","2015-03-01 00:00:00",5000,52,1,failed
+329,"Fro-Joe's, Ocean City's First Rolled Ice Cream Shop",5,2,2,"2016-09-29 00:00:00","2016-11-28 00:00:00",70000,107,3,failed
+330,"Just Say M.O! Chapter's 1 & 2",55,2,2,"2014-05-10 00:00:00","2014-06-19 00:00:00",10000,0,0,failed
+331,"Tobacco Road Showcase",20,2,2,"2012-01-07 00:00:00","2012-03-06 00:00:00",2500,0,0,failed
+332,"East Meets West Beef Stick Flavor-Sure to Please",100,2,2,"2017-06-27 00:00:00","2017-07-27 00:00:00",500,1505,40,successful
+333,"Creativity Knits: Artful Knitting Tools",12,2,2,"2012-09-29 00:00:00","2012-10-13 00:00:00",750,10,1,failed
+334,"One Hard-Working Couple, With a Goal, On an Organic Mission",107,2,2,"2015-03-28 00:00:00","2015-05-27 00:00:00",4000,4542,46,successful
+335,Yooquik,103,6,6,"2016-05-13 00:00:00","2016-07-12 00:00:00",54527.45,14043.6,46,canceled
+336,"Life Size Rhinoceros in London",26,1,1,"2013-09-11 00:00:00","2013-09-15 00:00:00",6407.79,432.53,8,failed
+337,"Frühstück TV - A German-American Talk Show",23,2,2,"2013-06-12 00:00:00","2013-07-27 00:00:00",18500,4737.99,54,failed
+338,"Hub+ for USB-C: Get your MacBook ports back.",36,2,2,"2015-05-05 00:00:00","2015-06-16 00:00:00",35000,883460.8,8019,successful
+339,"Fight Fire With Fire",9,2,2,"2014-07-17 00:00:00","2014-08-07 00:00:00",20000,180,7,failed
+340,"THE PERFECT CHINO | CUSTOM MADE TO FIT YOU by Woodies",52,2,2,"2016-04-19 00:00:00","2016-05-29 00:00:00",15000,112476.44,661,successful
+341,"State Flag Geography Cards",46,2,2,"2012-12-06 00:00:00","2013-01-05 00:00:00",3000,3015,39,successful
+342,"The Danish Beer Adventure",7,18,11,"2017-08-24 00:00:00","2017-09-23 00:00:00",1586.34,7.93,1,failed
+343,"Turn my imagination into physical forms of art.",31,4,4,"2016-01-11 00:00:00","2016-02-10 00:00:00",709.07,65.94,3,failed
+344,"Michael Lewis Rowland: My Brother's Keeper- a Memoir",10,2,2,"2016-05-24 00:00:00","2016-06-23 00:00:00",8000,50,1,canceled
+345,"Ecofarm for High Functioning Autistic Adults",107,2,2,"2015-02-20 00:00:00","2015-03-22 00:00:00",30000,225,2,failed
+346,"Life Lessons - Netflix Series",23,2,2,"2015-04-19 00:00:00","2015-05-19 00:00:00",20000,0,0,failed
+347,"30 Day Itch",47,2,2,"2013-03-27 00:00:00","2013-04-26 00:00:00",5000,0,0,failed
+348,""Get Cocky" Shorts",52,2,2,"2014-09-11 00:00:00","2014-10-11 00:00:00",100,4228,164,successful
+349,"European Reversibles",52,2,2,"2016-04-06 00:00:00","2016-05-31 00:00:00",30000,0,0,failed
+350,"The Audio Embodiment of the Culture of Food",6,2,2,"2010-06-26 00:00:00","2010-07-30 00:00:00",1000,1438,14,successful
+351,"Some Fear None: "In Theater" debut music video",35,2,2,"2014-06-21 00:00:00","2014-07-21 00:00:00",15000,830,16,failed
+352,"BreakingBad inspired Coffee Lab Walter's Coffee Roastery NYC",6,2,2,"2015-10-05 00:00:00","2015-11-04 00:00:00",55000,28109,138,failed
+353,"Stanky and Amazing Gracie: Illustrated by Kailey Semmelmann",74,2,2,"2014-08-09 00:00:00","2014-09-20 00:00:00",5000,5275,77,successful
+354,"Alex's Dad Chair of Inspiration and Awesomeness (Suspended)",127,2,2,"2016-01-25 00:00:00","2016-03-25 00:00:00",900,1,1,suspended
+355,"The Imposters",122,2,2,"2017-04-11 00:00:00","2017-05-11 00:00:00",5000,7010,391,successful
+356,"The Dark Knight Trilogy: Mobile App Filming Locations",21,2,2,"2013-10-22 00:00:00","2013-11-21 00:00:00",900,1,1,failed
+357,"The Water Table: Brooklyn's First Dinner Boat!",6,2,2,"2013-02-08 00:00:00","2013-02-26 00:00:00",8000,868,14,failed
+358,"Get Mrtcupz a Sasuke Hugging Body Pillow Case Cover",134,1,1,"2015-07-18 00:00:00","2015-09-16 00:00:00",25.03,0,0,suspended
+359,"Police Brutality Posters",31,2,2,"2012-01-22 00:00:00","2012-03-07 00:00:00",500,10,2,failed
+360,"First Gear - Motorprogrammet för alla",4,12,8,"2016-06-01 00:00:00","2016-06-30 00:00:00",2964.58,503.98,10,failed
+361,"First Time Author fulfilling his Dreams",33,2,2,"2010-11-16 00:00:00","2010-12-16 00:00:00",900,135,3,failed
+362,"Footsies - Pedaling Romance Below the Knees.",47,2,2,"2013-11-16 00:00:00","2013-12-16 00:00:00",3000,864,20,failed
+363,"Bedrooms of The Fallen",28,2,2,"2011-01-25 00:00:00","2011-02-24 00:00:00",15000,16837,142,successful
+364,"Zombie Fabulous #3: Mary: Sacred Heart of the Motor City",16,2,2,"2017-06-03 00:00:00","2017-07-03 00:00:00",1000,1228,39,successful
+365,"MARK OF THE DOG ROSE - an Astropiano Films feature",4,2,2,"2011-04-21 00:00:00","2011-07-20 00:00:00",1000,1050,18,successful
+366,"Gunner Abbott: Escape From Lizardoom "Short Film"",112,2,2,"2014-06-07 00:00:00","2014-07-07 00:00:00",200,290,10,successful
+367,"SHOTBOX with PANELS",8,2,2,"2016-07-28 00:00:00","2016-09-01 00:00:00",15000,10433,197,canceled
+368,"808 SPEAKERBOX - H4 Help Hawaii Hip-Hop",55,2,2,"2011-10-13 00:00:00","2011-12-10 00:00:00",3000,3030.06,70,successful
+369,"Kiën Light: Intelligent daylight at your fingertips",36,7,6,"2016-10-18 00:00:00","2016-11-23 00:00:00",52959.93,161611.46,398,successful
+370,"NIKITA: Le Femme Assassin",33,3,3,"2015-05-31 00:00:00","2015-06-30 00:00:00",3973.93,7.95,1,failed
+371,"LabRats Year Four: Doing more, asking for less!",20,2,2,"2013-01-04 00:00:00","2013-01-21 00:00:00",7500,7957.91,133,successful
+372,"Healthy Eats Restaurant",5,2,2,"2014-07-09 00:00:00","2014-08-08 00:00:00",70000,0,0,failed
+373,"Zombie Man",4,2,2,"2011-02-22 00:00:00","2011-03-24 00:00:00",2500,2625,42,successful
+374,"The Awesome Olympia Farmers Market Captured in Art",31,2,2,"2014-01-28 00:00:00","2014-03-28 00:00:00",1995,2000,11,successful
+375,"Grandma's Filled Burgers",5,2,2,"2016-10-09 00:00:00","2016-11-23 00:00:00",65000,1,1,failed
+376,"Rebuild an Artist's Legacy",11,2,2,"2013-05-01 00:00:00","2013-05-31 00:00:00",5000,214,4,failed
+377,"The Birds of Paradise Series",59,2,2,"2013-07-01 00:00:00","2013-07-31 00:00:00",3000,75,2,failed
+378,"Tina And The Gucci Flip Flop: The Live Action Short Film",54,2,2,"2016-11-24 00:00:00","2016-12-26 00:00:00",35000,36021.98,406,successful
+379,"bUy Apparel",18,2,2,"2012-03-26 00:00:00","2012-05-06 00:00:00",10000,0,0,failed
+380,"Where is Home?",9,3,3,"2016-01-01 00:00:00","2016-01-26 00:00:00",2132.35,2383.25,83,successful
+381,"Shattered Pitch",47,2,2,"2011-11-23 00:00:00","2012-01-22 00:00:00",5000,5400,48,successful
+382,"På andra sidan våldet (English: The other side of violence)",46,12,8,"2017-10-25 00:00:00","2017-11-30 00:00:00",20308.69,96.76,3,failed
+383,"Create a one of a kind, experimental, home-built aircraft.",8,2,2,"2014-07-14 00:00:00","2014-08-13 00:00:00",60000,100,1,failed
+384,"Magnetic Robot Invasion: A Free Street Art Project",59,2,2,"2014-02-13 00:00:00","2014-03-15 00:00:00",500,520,15,successful
+385,"COLD BABY-AS IF THROUGH A GLASS & DARKLY GRAPHIC NOVELLA",21,2,2,"2013-12-02 00:00:00","2014-01-16 00:00:00",5000,5,1,failed
+386,"Development of talking language translation app for pets",50,7,6,"2016-08-01 00:00:00","2016-09-30 00:00:00",200897.34,4.46,4,failed
+387,"Tyny Tools I Tools for Attaching, Hanging and Organizing",8,2,2,"2014-06-02 00:00:00","2014-07-02 00:00:00",15000,41656,1317,successful
+388,"Mongolia asks assistance from rural Virginia felt makers.",10,2,2,"2012-07-02 00:00:00","2012-07-22 00:00:00",1500,2562,37,successful
+389,"Xor : Exclusive Or : Fictionnal funny documentary",4,13,6,"2016-11-29 00:00:00","2017-01-13 00:00:00",31982.94,0,0,failed
+390,"Norcio to record "Dear Christina" @ Applehead Studios.(Coheed and Cambria,John Mayer)",11,2,2,"2010-05-29 00:00:00","2010-07-29 00:00:00",5000,105,2,failed
+391,"YVR Space - For Creators",40,3,3,"2017-07-23 00:00:00","2017-09-21 00:00:00",203765.59,4.08,1,failed
+392,"Daebak! Wallet: The Best Cash Friendly Minimalist Wallet",8,1,1,"2016-09-14 00:00:00","2016-10-15 00:00:00",2437.54,3490.55,100,canceled
+393,"Our Dream of a Larry Graham Performance - Making Memories",129,2,2,"2014-08-07 00:00:00","2014-08-22 00:00:00",24000,11,2,failed
+394,"Your Way Game Board",14,2,2,"2014-08-05 00:00:00","2014-09-04 00:00:00",250000,0,0,failed
+395,"The Benefits of Time and Space",47,2,2,"2011-08-18 00:00:00","2011-09-17 00:00:00",3600,265,11,failed
+396,"Sebastians in NYC",88,2,2,"2012-08-03 00:00:00","2012-09-03 00:00:00",7700,8255,78,successful
+397,"Ted Bundy: King of Hearts",47,2,2,"2015-07-14 00:00:00","2015-07-31 00:00:00",2650,2850,23,successful
+398,"custom front suspension for classic cars and trucks",89,2,2,"2017-05-23 00:00:00","2017-06-22 00:00:00",100000,0,0,failed
+399,"Waiting to STALK your closet",18,2,2,"2013-05-02 00:00:00","2013-06-01 00:00:00",25500,45,2,failed
+400,"The Video Marketers Cookbook: Kickstarter Campaign",10,2,2,"2016-02-19 00:00:00","2016-03-20 00:00:00",2000,2506,37,successful
+401,"Incoherent Ramblings of a Crazy Bitch",10,2,2,"2015-03-26 00:00:00","2015-05-25 00:00:00",100,0,0,failed
+402,"Kube OpenLathe - The open source glass blowing lathe!",80,2,2,"2017-01-12 00:00:00","2017-02-14 00:00:00",12000,14057,67,successful
+403,"PRO: Professional Racing Ops (Canceled)",14,2,2,"2013-10-26 00:00:00","2013-11-25 00:00:00",50000,399,6,canceled
+404,"Nkwiry - Build engaging classrooms by curating bookmarks",40,3,3,"2014-11-03 00:00:00","2014-12-03 00:00:00",8776.55,118.48,5,failed
+405,"Meditation of My Heart: Music for Liturgy & Prayer",88,1,1,"2013-04-03 00:00:00","2013-05-09 00:00:00",1845.98,1938.28,54,successful
+406,"Countryside 100 Year Garden Bird Feeder (Canceled)",8,2,2,"2011-11-23 00:00:00","2011-12-23 00:00:00",13650,1101,5,canceled
+407,"Plusheeze - Cute, Handmade Plush Toys",12,1,1,"2014-02-10 00:00:00","2014-03-12 00:00:00",2489.21,824.76,16,failed
+408,"'The Choice'  Act 1",46,2,2,"2014-02-18 00:00:00","2014-03-21 00:00:00",2500,25,1,failed
+409,"Broken Wings: Journey of Traumatic Brain Injury Recovery",10,2,2,"2017-01-06 00:00:00","2017-02-05 00:00:00",2000,4208,95,successful
+410,"Sandy's Sprinkle Shop",135,2,2,"2014-07-18 00:00:00","2014-08-17 00:00:00",150,0,0,failed
+411,"The Giving Garden",6,2,2,"2012-04-18 00:00:00","2012-05-18 00:00:00",5000,5387,112,successful
+412,"Yazoo Revisited",9,2,2,"2012-04-13 00:00:00","2012-05-13 00:00:00",15000,7336,71,failed
+413,"Flock'dance Initiatives",76,2,2,"2014-04-21 00:00:00","2014-05-21 00:00:00",9000,9527,165,successful
+414,"SUMMER CAMP: S/S 2013 NECKLACE COLLECTION",18,2,2,"2012-07-23 00:00:00","2012-08-26 00:00:00",10000,10178,120,successful
+415,"FULL SCALE: Rites of Passage - A feature documentary (Canceled)",9,2,2,"2010-11-03 00:00:00","2011-02-01 00:00:00",7500,0,0,canceled
+416,HISAPP,58,3,3,"2015-03-31 00:00:00","2015-05-30 00:00:00",60000,0,0,failed
+417,"Support "Homecoming": A Short Film",47,2,2,"2009-10-22 00:00:00","2009-11-20 00:00:00",2000,2207,65,successful
+418,"World-premiere recording of Fischer Vespers",88,2,2,"2014-04-28 00:00:00","2014-05-10 00:00:00",2500,3405,48,successful
+419,"Films of Fury: The Once & Future Interviews Doc/Book",9,2,2,"2015-07-31 00:00:00","2015-08-31 00:00:00",68000,6172,66,failed
+420,"Summer Camp - A creative space for makers and artists alike.",71,2,2,"2013-09-26 00:00:00","2013-10-26 00:00:00",5000,5145,60,successful
+421,"Monstrology, an Anthology of Monsters",21,2,2,"2012-10-26 00:00:00","2012-11-25 00:00:00",9000,9228.66,147,successful
+422,"Custom Lego FNAF Minifigures",12,2,2,"2016-02-11 00:00:00","2016-03-12 00:00:00",350,146,5,failed
+423,"Raising Awareness about Human Trafficking",40,2,2,"2017-01-03 00:00:00","2017-02-02 00:00:00",1000,0,0,failed
+424,"Lazy Boy Laundry (Canceled)",50,2,2,"2015-12-02 00:00:00","2016-01-01 00:00:00",5000,0,0,canceled
+425,"Quest: Awakening of Melior",14,2,2,"2015-06-25 00:00:00","2015-07-27 00:00:00",6500,8076,242,successful
+426,"G.o.D.'s In the Groves: The Collective Mixes CD Pressing",48,2,2,"2015-07-04 00:00:00","2015-08-03 00:00:00",1200,0,0,failed
+427,"Comics Alive!",28,2,2,"2013-08-07 00:00:00","2013-09-16 00:00:00",3500,740.58,30,failed
+428,"Get Silence The Feedback on the road this summer! (Canceled)",35,2,2,"2011-05-10 00:00:00","2011-06-09 00:00:00",300,110,3,canceled
+429,"Mya G. Boots for the Well-defined Calf ~ Made in USA",18,2,2,"2013-09-20 00:00:00","2013-10-25 00:00:00",42000,640.5,15,failed
+430,"My Butterfly Garden coloring book",27,2,2,"2016-02-17 00:00:00","2016-03-08 00:00:00",500,41,2,failed
+431,""WHERE DID YOU LEARN" A tribute to James Naismith",28,2,2,"2011-08-27 00:00:00","2011-10-26 00:00:00",25000,1,1,failed
+432,"Reese and Reeves 2: A new novel",33,2,2,"2015-06-03 00:00:00","2015-08-02 00:00:00",1000,1214,47,successful
+433,"Finger Up The Bum - Illustrated Guide to My Prostate Cancer",10,3,3,"2016-06-01 00:00:00","2016-07-01 00:00:00",19345.35,20764.53,241,successful
+434,"http://www.deadcatdot.com/StreetStuff.html wind noise",8,2,2,"2013-02-10 00:00:00","2013-03-11 00:00:00",10000,60,4,failed
+435,"Beach Wrestling Documentary",9,5,5,"2015-03-29 00:00:00","2015-04-28 00:00:00",2675.19,2875.83,36,successful
+436,WILDSILK,42,1,1,"2014-12-12 00:00:00","2015-01-11 00:00:00",15173.59,1.52,1,failed
+437,""The Found Festival" by The Bia Theatre Ensemble",43,2,2,"2017-11-14 00:00:00","2017-12-14 00:00:00",10100,10406,109,successful
+438,"69 Mustang Mach1 versus 69 Chevelle SS",58,2,2,"2015-01-07 00:00:00","2015-02-04 00:00:00",55000,1,1,failed
+439,"Professional LED Plant Lighting for The Home",36,2,2,"2013-01-03 00:00:00","2013-02-02 00:00:00",30000,2276,20,failed
+440,"Special Occasion Wreaths and More",22,2,2,"2014-08-22 00:00:00","2014-09-21 00:00:00",450,0,0,failed
+441,"Cartwheels to Edinburgh",20,1,1,"2013-03-22 00:00:00","2013-04-22 00:00:00",10832.56,1614,41,failed
+442,"Reviving The True Islam (Canceled)",4,3,3,"2016-02-09 00:00:00","2016-04-09 00:00:00",931.6,0.78,1,canceled
+443,"The Life of Rice",9,1,1,"2016-11-13 00:00:00","2016-12-13 00:00:00",6221.85,84.62,6,failed
+444,"Vodou in Haiti: A People's Religion",28,2,2,"2010-12-27 00:00:00","2011-02-25 00:00:00",10000,10795,92,successful
+445,"Hydro Force One (Forced Water propulltion Hull)",8,2,2,"2015-08-03 00:00:00","2015-09-04 00:00:00",150000,15,2,failed
+446,"Warriors and Yogis",23,17,6,"2017-02-01 00:00:00","2017-03-01 00:00:00",1056.5,0,0,failed
+447,"Time Fragility (Time Riven Series: Volume 2)",33,2,2,"2015-12-13 00:00:00","2016-01-12 00:00:00",2000,0,0,failed
+448,"Mongol Art World Tour _ Save The Art",76,2,2,"2015-01-19 00:00:00","2015-02-18 00:00:00",25000,1250,9,failed
+449,"Sound Siege",44,4,4,"2015-04-25 00:00:00","2015-05-25 00:00:00",191.28,3.06,2,failed
+450,"Beyond the Road - the book",143,6,6,"2015-06-19 00:00:00","2015-07-19 00:00:00",5469.5,0,0,failed
+451,"Food Gypsy- Delivering Grocery Goodness To East Nashville",6,2,2,"2015-04-08 00:00:00","2015-04-23 00:00:00",1200,121,3,failed
+452,WiggleWarmers,18,2,2,"2016-09-28 00:00:00","2016-10-28 00:00:00",5000,5475,120,successful
+453,"Black Dewa",52,4,4,"2014-05-27 00:00:00","2014-06-26 00:00:00",7064.14,0,0,failed
+454,"Slotto Construction Toys The New "Architectural Sets"",8,2,2,"2014-11-12 00:00:00","2014-12-13 00:00:00",15000,2155,28,failed
+455,"GameMaker: Studio Course Level 2",10,1,1,"2016-03-12 00:00:00","2016-04-11 00:00:00",677.82,11.34,2,failed
+456,Mallaluda,36,2,2,"2014-10-19 00:00:00","2014-11-12 00:00:00",1000,2,2,failed
+457,"QiBit - Keychain Mini Bit Driver",8,2,2,"2015-06-29 00:00:00","2015-07-29 00:00:00",13000,1072,29,failed
+458,"The CGL Love and Lingerie Experience Live Parties",52,2,2,"2014-10-20 00:00:00","2014-11-19 00:00:00",5000,5155,194,successful
+459,"The Cross Country Barber | The Veterans Barber",23,2,2,"2015-07-20 00:00:00","2015-08-19 00:00:00",25000,0,0,failed
+460,"Milk: a comedy about activism & espionage... but mostly milk",47,4,4,"2014-01-16 00:00:00","2014-02-02 00:00:00",760.15,925.59,31,successful
+461,"Studio Project - Our First EP / Album",3,2,2,"2014-11-16 00:00:00","2014-12-16 00:00:00",1000,1000,14,successful
+462,"Nothing To Declare",14,1,1,"2016-11-01 00:00:00","2016-12-01 00:00:00",6942.95,12234.75,422,successful
+463,"SERVE A PURPOSE! A Higher Purpose",9,2,2,"2014-01-22 00:00:00","2014-02-26 00:00:00",3500,50,2,failed
+464,"Pony Horton's GRAVITY ARCH MEDIA Films 2015",4,2,2,"2015-06-23 00:00:00","2015-07-23 00:00:00",55000,1885,9,failed
+465,""Exit Disclaimer: Science and Fiction Ahead"",57,2,2,"2012-08-31 00:00:00","2012-09-30 00:00:00",5000,5275,68,successful
+466,"Let Us Help You Win That Argument",40,2,2,"2015-03-05 00:00:00","2015-04-19 00:00:00",2500,0,0,failed
+467,"MH Bows and Frills",12,2,2,"2015-02-24 00:00:00","2015-03-26 00:00:00",5999,136,4,failed
+468,"Corridor Journal | Bridgeport Connecticut",153,2,2,"2017-09-27 00:00:00","2017-10-29 00:00:00",15000,19770,173,successful
+469,"Stone Senses is looking for our biggest fans to be a part of our 3rd album!",35,2,2,"2010-06-02 00:00:00","2010-07-01 00:00:00",4000,225,6,failed
+470,"Try A Gramme EP",11,2,2,"2015-03-14 00:00:00","2015-04-16 00:00:00",1000,1657,51,successful
+471,"Chronicles: Arcane Tales",46,11,2,"2015-02-24 00:00:00","2015-03-31 00:00:00",6500,0,0,undefined
+472,"8% - social issue drama",47,2,2,"2014-09-26 00:00:00","2014-10-26 00:00:00",5000,1552,33,failed
+473,Re:Bach,3,12,8,"2016-08-30 00:00:00","2016-09-17 00:00:00",29257.9,23.41,1,failed
+474,"CONNECTED - The new Smooth Jazz album from Mark Etheredge",41,2,2,"2015-06-15 00:00:00","2015-07-15 00:00:00",5000,5150,85,successful
+475,"Newcomers' Guide to ... Real-World BDSM & Kink",10,2,2,"2016-06-21 00:00:00","2016-07-21 00:00:00",20000,51,2,failed
+476,"The Annotated Alphabet - A Vocabulary for Children",74,2,2,"2013-09-04 00:00:00","2013-10-19 00:00:00",26500,1617,54,failed
+477,"The Unified Theory and the application of it. (Canceled)",15,2,2,"2015-04-10 00:00:00","2015-05-25 00:00:00",30000,210,3,canceled
+478,"ONLINELIGA.de - Deutsche Online Fußball-Meisterschaft",13,7,6,"2017-11-22 00:00:00","2017-12-22 00:00:00",11852.98,766.89,35,failed
+479,"Bill's Amazing Metal Fabrication (BAMF)",12,2,2,"2014-10-08 00:00:00","2014-12-07 00:00:00",13100,240,4,failed
+480,"HÀFU - Short Film",47,1,1,"2017-11-24 00:00:00","2018-01-01 00:00:00",8130.96,9934.68,137,successful
+481,"A "Vision" that must be seen.",47,2,2,"2010-05-29 00:00:00","2010-07-12 00:00:00",12100,155,5,failed
+482,"The Halloween Spirit - New series",82,2,2,"2015-09-04 00:00:00","2015-09-28 00:00:00",650,930,8,successful
+483,"My Brother's Keeper- Open World Indie Survival/Horror Game.",44,2,2,"2016-08-17 00:00:00","2016-09-16 00:00:00",1000,91,5,failed
+484,"Leather Slim Wallet by LoaferCo - Hand crafted in Britain",34,1,1,"2014-08-18 00:00:00","2014-09-18 00:00:00",1225.55,3135.77,64,successful
+485,"Spice Shack Artisan Coffee & Spice Bar",5,2,2,"2017-05-02 00:00:00","2017-06-01 00:00:00",250000,0,0,failed
+486,"Black Girl In Om: A Global Community",31,2,2,"2015-11-30 00:00:00","2016-01-04 00:00:00",50000,8593,158,failed
+487,"Hillary Clinton: The Ultimate Adventure",122,2,2,"2014-10-01 00:00:00","2014-10-31 00:00:00",200000,374.83,20,failed
+488,"Clash Of Cemented Essence A Novel (Canceled)",33,2,2,"2013-08-20 00:00:00","2013-10-19 00:00:00",6000,0,0,canceled
+489,"CONNECT Lounge...It's time to CONNECT!",7,2,2,"2017-06-04 00:00:00","2017-06-26 00:00:00",15000,15195,82,successful
+490,"3D Realistic Home Design",139,2,2,"2016-06-10 00:00:00","2016-07-10 00:00:00",100000,1,1,failed
+491,"Builder Boys are Awesome!",22,2,2,"2014-09-26 00:00:00","2014-10-10 00:00:00",700,1455,32,successful
+492,"DOMESTIC POLICY",54,1,1,"2016-04-15 00:00:00","2016-05-28 00:00:00",8659.38,9308.84,67,successful
+493,Tuzina,57,2,2,"2012-01-29 00:00:00","2012-03-09 00:00:00",20000,20535.2,177,successful
+494,"Operation Contact Print Phase 1",28,2,2,"2013-05-18 00:00:00","2013-06-17 00:00:00",2800,95,3,failed
+495,CyberSecReport,94,2,2,"2013-01-29 00:00:00","2013-02-28 00:00:00",1800,1826,24,successful
+496,"Delivermont Delivery Services Project",25,2,2,"2014-08-04 00:00:00","2014-09-03 00:00:00",6000,0,0,failed
+497,"Bourgeoisie Foundation (Phase 2)",18,2,2,"2017-11-03 00:00:00","2017-12-03 00:00:00",4000,0,0,failed
+498,"The Bigger, Better Printer Project",59,2,2,"2014-11-05 00:00:00","2014-12-05 00:00:00",6000,9355,130,successful
+499,"Santa Banta Naughty Nice",14,3,3,"2016-11-21 00:00:00","2017-01-10 00:00:00",12175.63,371.36,13,canceled
+500,"JobFynd: The Must Have Super Cool Career Tool!",50,4,4,"2014-10-23 00:00:00","2014-11-29 00:00:00",41862.02,105.49,11,failed
+501,"ComboClassClash, fantasy/strategy Card Game (Canceled)",14,2,2,"2014-12-20 00:00:00","2015-01-19 00:00:00",10000,252,6,canceled
+502,"Dinos and Doggos Enamel Pins",31,2,2,"2017-08-10 00:00:00","2017-09-09 00:00:00",600,2287,43,successful
+503,"Still Small Voices  ?? ???? ???? ????? ?????",20,2,2,"2011-03-04 00:00:00","2011-05-04 00:00:00",12500,1123.45,28,failed
+504,"UNLOCK | A Book that Comes to LIFE!",10,2,2,"2017-04-11 00:00:00","2017-06-10 00:00:00",5000,3012,28,canceled
+505,"Mel Smith Designs - 100% eco-friendly patterned notebooks",8,1,1,"2013-07-27 00:00:00","2013-08-26 00:00:00",542.45,788.88,39,successful
+506,"Le FestiBD de Rivière-du-Loup (Canceled)",87,3,3,"2016-03-01 00:00:00","2016-04-30 00:00:00",7764.58,0,0,canceled
+507,"Molly Crabapple's Week in Hell",26,2,2,"2011-06-06 00:00:00","2011-06-21 00:00:00",4500,25805.85,745,successful
+508,"A Documentary On The Real Road Life Of Rock & Roll",9,2,2,"2016-04-08 00:00:00","2016-05-08 00:00:00",37000,0,0,failed
+509,"The Everglades",28,2,2,"2010-08-15 00:00:00","2010-10-26 00:00:00",5000,6089,79,successful
+510,"Oil and Skin. Painting and tattooing as complements.",93,1,1,"2015-01-28 00:00:00","2015-02-27 00:00:00",3088.76,1922.75,17,failed
+511,"City of Darkness",48,2,2,"2012-03-08 00:00:00","2012-04-07 00:00:00",1000,5,1,failed
+512,"The Vermont Sugarbush",86,2,2,"2015-01-21 00:00:00","2015-03-22 00:00:00",5000,6,2,failed
+513,"Crested Duck Charcuterie - USDA Certification and Brunch",6,2,2,"2012-09-07 00:00:00","2012-10-22 00:00:00",7500,8041,115,successful
+514,"Stacked Up (Canceled)",44,2,2,"2013-02-13 00:00:00","2013-03-15 00:00:00",4850,0,0,canceled
+515,"ltb lunch table bag!",8,2,2,"2015-03-04 00:00:00","2015-04-03 00:00:00",5000,200,1,failed
+516,"For a Friend",24,2,2,"2013-07-15 00:00:00","2013-08-20 00:00:00",500,1327,62,successful
+517,"Jon Macy's FEARFUL HUNTER - The Complete Epic",21,2,2,"2014-03-17 00:00:00","2014-04-16 00:00:00",10000,11507,219,successful
+518,"The Guys Upstairs",46,1,1,"2015-04-03 00:00:00","2015-05-03 00:00:00",12330.84,12484.97,71,successful
+519,"Help Fund "Fallen Giants- Combat Debut Of The T-35A Tank"",10,1,1,"2016-05-10 00:00:00","2016-06-09 00:00:00",576.14,825.33,13,successful
+520,"Eternity Dice - Prestige Edition",14,2,2,"2013-11-06 00:00:00","2013-12-01 00:00:00",2000,14851,178,successful
+521,"The Minister's Cat",74,2,2,"2015-04-02 00:00:00","2015-05-17 00:00:00",8000,8354,86,successful
+522,"Help Adam Murphy Record His First Album!",119,2,2,"2015-05-20 00:00:00","2015-06-19 00:00:00",5000,148,7,failed
+523,"Digital Aristocracy: A Commoner's Guide to Digital Riches",10,2,2,"2012-05-09 00:00:00","2012-05-29 00:00:00",2000,0,0,failed
+524,"Anime Art For Everyone!",31,1,1,"2016-03-04 00:00:00","2016-04-03 00:00:00",281.51,7.04,1,failed
+525,"Amelia (Short Film)",47,2,2,"2012-02-23 00:00:00","2012-03-08 00:00:00",2000,2046.13,14,successful
+526,"American Pride",118,2,2,"2016-06-14 00:00:00","2016-07-03 00:00:00",1500,795,9,failed
+527,"It's Zambies The Card Game!!",14,2,2,"2014-02-01 00:00:00","2014-03-03 00:00:00",1000,1135,21,successful
+528,"GRACE OF A STRANGER",47,2,2,"2013-08-22 00:00:00","2013-09-21 00:00:00",24750,25025,154,successful
+529,"Killer Curse",52,2,2,"2014-07-28 00:00:00","2014-08-27 00:00:00",400,954,23,successful
+530,"Candle Lithophany personnalized",28,13,6,"2015-08-23 00:00:00","2015-09-22 00:00:00",5575.5,0,0,failed
+531,"TOGETHER for Planned Parenthood - The Album(s)",3,2,2,"2017-08-10 00:00:00","2017-09-09 00:00:00",5000,33,4,failed
+532,"Surviving the Valley",21,2,2,"2012-07-16 00:00:00","2012-08-01 00:00:00",300,0,0,failed
+533,"Friday Night Boards",14,2,2,"2015-04-06 00:00:00","2015-05-06 00:00:00",500,901,25,successful
+534,"Ghost Island #1",79,1,1,"2016-10-04 00:00:00","2016-11-03 00:00:00",999.28,1281.57,63,successful
+535,"Hey Moon!  Catch!  (Record Lorrie Rivers' Newest Album)",3,2,2,"2013-08-28 00:00:00","2013-09-25 00:00:00",12000,12497,122,successful
+536,"Icarus [A Short Film]",112,2,2,"2015-08-17 00:00:00","2015-09-16 00:00:00",10000,10375,68,successful
+537,Tortuga,14,2,2,"2014-01-25 00:00:00","2014-02-14 00:00:00",10000,28490.42,572,successful
+538,"The Epidemic (Canceled)",44,1,1,"2013-09-04 00:00:00","2013-10-05 00:00:00",63915.12,568.84,7,canceled
+539,"Growing Up Menno",10,2,2,"2013-02-26 00:00:00","2013-03-28 00:00:00",500,146,6,failed
+540,"Always On The Edge - The adventurous story of Penny & Dennis",10,2,2,"2015-09-26 00:00:00","2015-10-26 00:00:00",6500,475,7,failed
+541,"Stovetop Scents",12,2,2,"2014-01-03 00:00:00","2014-02-02 00:00:00",8000,10,2,failed
+542,"BeConvertible: one bag, every style you could wish for",34,6,6,"2015-12-09 00:00:00","2016-01-08 00:00:00",10860.95,12582.41,22,successful
+543,"ART Institute at Harvard - MFA Acting Showcase",20,2,2,"2014-04-09 00:00:00","2014-05-02 00:00:00",10000,3725.37,34,failed
+544,"BLAZE RESTAURANT",5,1,1,"2014-12-03 00:00:00","2015-02-01 00:00:00",153179.24,16.85,4,failed
+545,""The 'Devil" (Canceled)",23,2,2,"2013-02-07 00:00:00","2013-03-10 00:00:00",600,320,11,canceled
+546,"Sponser aChronic's New DJ Equipment",48,2,2,"2014-06-26 00:00:00","2014-07-26 00:00:00",500,520,12,successful
+547,"Got Healthcare? - Documentary Film Distribution",9,2,2,"2010-08-07 00:00:00","2010-11-01 00:00:00",5000,1,1,failed
+548,"Bradley Shelver Contemporary Dance APAP/Reverb Festival",57,2,2,"2011-11-18 00:00:00","2011-12-19 00:00:00",1200,1200,10,successful
+549,"Raw art for the RAW world",28,2,2,"2012-05-08 00:00:00","2012-07-07 00:00:00",4000,1,1,failed
+550,"The Lion Princess uplifts youth with a wonderful story!",74,2,2,"2011-01-17 00:00:00","2011-04-18 00:00:00",1300,80,3,failed
+551,"Left For Dad: The Videogame!",44,3,3,"2016-12-12 00:00:00","2017-01-11 00:00:00",5918.12,987.75,22,failed
+552,"Let Her Get Hers First",29,2,2,"2013-01-29 00:00:00","2013-03-28 00:00:00",10000,0,0,failed
+553,"Psalms in Poetry: The Rhythm and Rhyme of Hope",1,2,2,"2013-01-08 00:00:00","2013-02-05 00:00:00",2000,2819,70,successful
+554,"TOW BIKE",8,14,6,"2015-12-09 00:00:00","2016-01-18 00:00:00",54040.03,1568.24,2,failed
+555,"The Sensational G-Girl Is Here!",21,2,2,"2012-05-26 00:00:00","2012-06-20 00:00:00",7500,3180.51,32,failed
+556,"Blazinhotradio Compilation Album",3,2,2,"2010-06-19 00:00:00","2010-09-15 00:00:00",5000,0,0,failed
+557,"Dos Muertos - Short Film",47,2,2,"2012-03-15 00:00:00","2012-04-23 00:00:00",12000,1602.71,17,failed
+558,"GUARDIN' ROOTS: More then just a play!",20,2,2,"2012-05-27 00:00:00","2012-06-16 00:00:00",1500,1670,35,successful
+559,"Flaminke - A DSLR Lens Rental Membership Community",40,2,2,"2014-09-03 00:00:00","2014-10-03 00:00:00",8000,898,17,failed
+560,"Sustainable mobile Spa",63,2,2,"2014-08-27 00:00:00","2014-09-26 00:00:00",15000,3,2,failed
+561,"Photobook of Masachapa, Nicaragua",28,2,2,"2012-09-27 00:00:00","2012-11-26 00:00:00",5000,25,1,failed
+562,"Quattro - Album Recording",3,2,2,"2011-12-16 00:00:00","2012-01-15 00:00:00",12000,14472.18,132,successful
+563,"HAALA DENIM.  Hand Crafted Premium Denim Jeans",52,2,2,"2015-01-27 00:00:00","2015-03-13 00:00:00",15000,18979,98,successful
+564,"Tonguespank Spice Co. is Spanking Tongues Again!",7,2,2,"2014-11-10 00:00:00","2014-12-11 00:00:00",7500,7940.5,115,successful
+565,"AirTime HD: Classic Childhood Game Free For All Families",44,2,2,"2014-03-27 00:00:00","2014-04-26 00:00:00",5000,1131.69,36,canceled
+566,"Fix the Farm",107,2,2,"2015-01-14 00:00:00","2015-02-13 00:00:00",30000,0,0,failed
+567,"Help team 9142A win nationals!",58,2,2,"2015-05-18 00:00:00","2015-06-02 00:00:00",300,305.01,5,successful
+568,"Zombie Color Paracord Bracelets and Key Fobs!",18,2,2,"2013-07-25 00:00:00","2013-08-24 00:00:00",150,646,40,successful
+569,"Kill The Time",50,1,1,"2016-02-04 00:00:00","2016-03-05 00:00:00",35.73,1.43,1,failed
+570,""Revolutionary Voices": A Last Muster Film",4,2,2,"2013-02-27 00:00:00","2013-04-11 00:00:00",27500,30806.06,416,successful
+571,"Fundraiser for Their Strange Gathering debut LP and the support of our artist network",35,2,2,"2010-03-10 00:00:00","2010-04-08 00:00:00",2400,2696,19,successful
+572,"Diversity conscious shopping app improves fairness,diversity",50,2,2,"2015-07-21 00:00:00","2015-08-21 00:00:00",5500,584,9,failed
+573,"Moustache, a t-shirt story",18,1,1,"2013-04-17 00:00:00","2013-05-17 00:00:00",2285.12,449.41,19,failed
+574,"Depths (working title)",54,4,4,"2014-08-10 00:00:00","2014-08-18 00:00:00",1024.3,159.23,4,failed
+575,"FreeRange at Edinburgh Fringe 2013",20,1,1,"2013-07-11 00:00:00","2013-07-18 00:00:00",1526.02,1533.65,16,successful
+576,"Magnetic Battery",103,4,4,"2015-04-01 00:00:00","2015-05-01 00:00:00",79126.44,949.52,15,failed
+577,"Under the Sun",35,2,2,"2015-03-01 00:00:00","2015-04-01 00:00:00",3000,3436,59,successful
+578,"THE KITCHEN DIVA'S GLOBAL DINER--GOOD FOOD! GOOD FOR YOU!",25,2,2,"2016-10-29 00:00:00","2016-12-09 00:00:00",15000,30,2,canceled
+579,"KSKYE | Eco Eyewear meets Fashion. An Eco Vegan Rebrand.",34,4,4,"2014-10-03 00:00:00","2014-11-02 00:00:00",30084.24,2160.91,21,canceled
+580,"Bats Outta Hell (Lets Try this Again)",14,2,2,"2016-09-22 00:00:00","2016-11-21 00:00:00",56000,56,3,canceled
+581,"'94: ALL NEW original comic series!",21,2,2,"2014-03-04 00:00:00","2014-04-08 00:00:00",3000,5436,89,successful
+582,"Miraffe, the smartest playmate for kids (Canceled)",36,2,2,"2016-05-09 00:00:00","2016-06-23 00:00:00",20000,5554,44,canceled
+583,Facade,73,2,2,"2015-07-20 00:00:00","2015-09-18 00:00:00",250000,0,0,failed
+584,"Green Japanese Tshirt",18,2,2,"2016-06-02 00:00:00","2016-07-02 00:00:00",5000,41,3,failed
+585,"Help bring the 2016 Horse and Hunk Calendar to North America",116,3,3,"2015-10-24 00:00:00","2015-11-23 00:00:00",149.85,97.4,5,failed
+586,"Jodi Beck Debut EP Never Gonna Be Easy with Doug Silver",3,2,2,"2013-02-22 00:00:00","2013-03-18 00:00:00",3000,4590,45,successful
+587,"Shoelaces "Memory Tyes"",125,2,2,"2014-08-23 00:00:00","2014-09-22 00:00:00",30000,0,0,failed
+588,"Open Book",50,2,2,"2016-05-19 00:00:00","2016-07-18 00:00:00",275000,2,2,failed
+589,"Boketto Makes Their First Record!",3,11,2,"2016-04-15 00:00:00","2016-05-15 00:00:00",5500,6758,0,successful
+590,"Spiritual tote with crystal charm",34,2,2,"2017-09-25 00:00:00","2017-10-25 00:00:00",23000,2045,19,canceled
+591,"Poetry Field Journal",27,2,2,"2017-04-23 00:00:00","2017-06-07 00:00:00",2500,534,14,failed
+592,"Little Cottonwood - Winter Clothing Collection",19,2,2,"2017-11-16 00:00:00","2017-11-30 00:00:00",20000,21011,253,successful
+593,"The Hunted ( Year 2 )",21,2,2,"2017-10-18 00:00:00","2017-11-17 00:00:00",6000,1950,13,failed
+594,"Would you help a MONSTER make music? Yes or No?",88,2,2,"2014-08-22 00:00:00","2014-09-21 00:00:00",2000,2778,30,successful
+595,"Providence - A LitRPG Novel",33,2,2,"2017-02-24 00:00:00","2017-03-24 00:00:00",1000,25,1,canceled
+596,""Back To Zero" by Drop Out Julian",35,2,2,"2015-01-17 00:00:00","2015-02-19 00:00:00",1500,1561,42,successful
+597,"Weighted Blankets for Special Needs by Harkla",8,2,2,"2017-06-27 00:00:00","2017-07-27 00:00:00",10000,16602,114,successful
+598,"SF Championship, Battle of the Bands",35,2,2,"2014-07-23 00:00:00","2014-08-24 00:00:00",300,320,9,successful
+599,"Harry's DogPack",8,2,2,"2017-04-11 00:00:00","2017-05-13 00:00:00",20000,0,0,canceled
+600,"Reduce Frizz with Hair RePear - Ultimate T-Shirt Hair Towel",18,2,2,"2016-06-13 00:00:00","2016-07-13 00:00:00",10000,360,11,failed
+601,"College Planning Services",37,2,2,"2017-04-15 00:00:00","2017-05-15 00:00:00",25000,0,0,failed
+602,"Wundor City Guides",46,1,1,"2017-09-27 00:00:00","2017-10-27 00:00:00",39279.87,12928.31,27,failed
+603,""The Three Wishes" a Marionette show for young people",76,2,2,"2012-11-08 00:00:00","2012-12-08 00:00:00",2500,201,6,failed
+604,"Tiki Vision 21' Hand-carved Tiki Torch",82,2,2,"2012-09-15 00:00:00","2012-10-15 00:00:00",3800,241,5,failed
+605,"Big Band (Canceled)",3,2,2,"2015-05-15 00:00:00","2015-06-14 00:00:00",15000,0,0,canceled
+606,"Constipated Cow, the Card Game",70,1,1,"2017-11-02 00:00:00","2017-12-01 00:00:00",1618.56,2705.69,64,successful
+607,"Of Connection and Disdain (Canceled)",46,2,2,"2014-06-28 00:00:00","2014-07-28 00:00:00",15000,59,3,canceled
+608,"Articulate Sex (Canceled)",14,4,4,"2015-10-23 00:00:00","2015-12-20 00:00:00",10893.25,1246.19,28,canceled
+609,"The combobulator!",31,2,2,"2011-03-05 00:00:00","2011-06-03 00:00:00",3500,3520.92,99,successful
+610,"Eve Selis Band back in the studio. CD goes to '11!",3,2,2,"2011-05-27 00:00:00","2011-07-12 00:00:00",10000,11720,133,successful
+611,"Capere: a card driven strategy game for 2 and 4 players",14,2,2,"2017-04-11 00:00:00","2017-05-11 00:00:00",12000,3169,55,canceled
+612,"The Drunk Whisperer",23,2,2,"2014-01-10 00:00:00","2014-02-09 00:00:00",2475,2605,52,successful
+613,"Shadow Hunter Video Game Development",44,2,2,"2013-12-31 00:00:00","2014-01-30 00:00:00",3000,78,13,failed
+614,"The Bucket List App | 10,000+ Things to do Before You Die",37,3,3,"2014-04-29 00:00:00","2014-06-07 00:00:00",55304.64,6454.97,56,canceled
+615,"Joe Applehead",3,11,2,"2015-06-09 00:00:00","2015-07-04 00:00:00",7500,0,0,undefined
+616,"SAVED BY THE STATUS documentary",9,3,3,"2013-10-30 00:00:00","2013-11-29 00:00:00",4728.13,526.71,17,failed
+617,"Modern Literal Torah Translation: Genesis",143,2,2,"2014-11-02 00:00:00","2015-01-01 00:00:00",4000,0,0,failed
+618,"Manson Girls (Canceled)",73,2,2,"2015-06-18 00:00:00","2015-07-18 00:00:00",25000,532,15,canceled
+619,"Cornish Smuggler:",14,1,1,"2013-05-23 00:00:00","2013-07-07 00:00:00",21151.87,46437.42,652,successful
+620,"No.1 Fan, a community connecting people through interests",50,2,2,"2014-07-11 00:00:00","2014-07-31 00:00:00",75000,2645,21,failed
+621,"Burgess Meredith EP Release",35,2,2,"2012-01-13 00:00:00","2012-02-20 00:00:00",2000,2436,45,successful
+622,RESTORATION,33,2,2,"2011-05-01 00:00:00","2011-06-30 00:00:00",10000,0,0,failed
+623,"The Art of Motivational Listening",10,2,2,"2015-05-27 00:00:00","2015-07-01 00:00:00",2000,2101,23,successful
+624,"A Unique, Glowing, Portable, Self-Contained Pop Up Outlet",15,4,4,"2017-09-05 00:00:00","2017-11-04 00:00:00",30674.85,0,0,failed
+625,"FORTRESS: Capturing the Beauty and Soul of Fortaleza, Brazil",28,2,2,"2013-10-25 00:00:00","2013-11-13 00:00:00",2345,63,7,canceled
+626,"Yangalang: Digest TV",20,1,1,"2015-03-07 00:00:00","2015-04-06 00:00:00",875.48,1189.19,21,successful
+627,"Houston Astros World Series Painting",59,2,2,"2017-11-02 00:00:00","2017-12-02 00:00:00",6000,6280,30,successful
+628,"Cold Brew Coffee To Go",6,2,2,"2013-02-07 00:00:00","2013-03-09 00:00:00",3750,412,15,failed
+629,"CineBlock (Canceled)",13,2,2,"2015-12-31 00:00:00","2016-01-30 00:00:00",900000,0,0,canceled
+630,"Leamington Underground Cinema Festival 2014",43,1,1,"2014-07-11 00:00:00","2014-08-15 00:00:00",5007.01,5302.42,42,successful
+631,"four new songs (Canceled)",72,1,1,"2016-03-03 00:00:00","2016-04-02 00:00:00",281.51,0,0,canceled
+632,"FroYo Vending Machine",6,2,2,"2016-10-12 00:00:00","2016-11-11 00:00:00",250000,0,0,failed
+633,"'Shoes for Shrews' is an educational and fun picture book",74,1,1,"2017-04-14 00:00:00","2017-05-14 00:00:00",1301.27,1573.24,73,successful
+634,"A year's worth of art - one day at a time",31,2,2,"2013-01-04 00:00:00","2013-01-31 00:00:00",7000,105,2,failed
+635,"Mantis Drone Claw",67,1,1,"2015-12-01 00:00:00","2016-01-10 00:00:00",7166.1,14980.01,319,successful
+636,"Machining the Iconic Luger Entirely From Wood",82,2,2,"2017-01-19 00:00:00","2017-02-18 00:00:00",5000,0,0,failed
+637,"Save DINOSAURS, DINOSAURS, DINOSAURS from extinction!",4,2,2,"2011-10-18 00:00:00","2011-12-04 00:00:00",5200,5599,41,successful
+638,"Eric's NOLA Ceramics Studio",145,2,2,"2013-04-04 00:00:00","2013-04-27 00:00:00",800,882,24,successful
+639,"FUZEBOX: The most accessible coding device ever! (Canceled)",36,1,1,"2016-04-13 00:00:00","2016-05-13 00:00:00",180107.49,6473.78,52,canceled
+640,"The Bogre: Southern Gothik #1",21,2,2,"2015-06-16 00:00:00","2015-08-13 00:00:00",300,376,19,successful
+641,"Furtherance the Board Game",14,2,2,"2016-04-04 00:00:00","2016-05-05 00:00:00",15000,2480,74,failed
+642,Mellows,147,2,2,"2015-02-24 00:00:00","2015-03-26 00:00:00",48000,0,0,failed
+643,"Help Celina Hernandez get to WonderCon 2011",31,2,2,"2011-02-23 00:00:00","2011-03-18 00:00:00",1300,631,16,failed
+644,"Where did the societal message in music go",55,2,2,"2015-07-13 00:00:00","2015-08-12 00:00:00",20000,0,0,failed
+645,"Vikings of Dragonia",14,2,2,"2015-05-19 00:00:00","2015-06-19 00:00:00",22000,13066,226,failed
+646,"THE NACHOS MAKE A HIT RECORD",48,2,2,"2012-02-23 00:00:00","2012-03-24 00:00:00",900,5,1,failed
+647,"Eliot Bronson and Yonder Orphans",3,2,2,"2012-03-14 00:00:00","2012-05-12 00:00:00",8000,8424.5,124,successful
+648,"Architecture & Human Networks in the Happiest Place on Earth",93,2,2,"2011-07-13 00:00:00","2011-08-07 00:00:00",6000,6031,34,successful
+649,"The Last Of Me (Canceled)",33,3,3,"2016-01-25 00:00:00","2016-02-24 00:00:00",3691.13,0,0,canceled
+650,"Fish Disease Diagnostics Ltd.",50,1,1,"2015-03-27 00:00:00","2015-04-29 00:00:00",154328.13,7.72,1,failed
+651,"Daily Grind Relocation project",7,2,2,"2014-07-17 00:00:00","2014-08-16 00:00:00",20000,23001,210,successful
+652,"Take the Dover Bronze Age boat to sea!",58,1,1,"2013-05-03 00:00:00","2013-06-02 00:00:00",31152.16,5086.37,49,failed
+653,"Kardajala Kirridarra Album tour and release campaign",48,4,4,"2017-06-29 00:00:00","2017-07-28 00:00:00",7961.78,8377.39,168,successful
+654,"Help Eric Kehoe Make An Album",11,2,2,"2012-03-09 00:00:00","2012-04-08 00:00:00",1000,1300.98,59,successful
+655,""GG" the series",54,2,2,"2015-02-09 00:00:00","2015-03-14 00:00:00",12000,12242,67,successful
+656,"Color Clutch: Compact nail polish storage",34,2,2,"2014-09-22 00:00:00","2014-10-23 00:00:00",12000,16926,274,successful
+657,"Pubtap: Making Your Social Life Simple. (Canceled)",37,2,2,"2014-03-20 00:00:00","2014-04-19 00:00:00",25000,3282.66,56,canceled
+658,"Chasing Tails - The Amberland Music Video",3,11,1,"2014-12-02 00:00:00","2014-12-22 00:00:00",2330.39,2431.37,0,undefined
+659,"Auto publication de mon livre",46,13,6,"2016-09-27 00:00:00","2016-11-26 00:00:00",127.7,0,0,canceled
+660,"Untangling Tessa",23,2,2,"2014-07-25 00:00:00","2014-08-24 00:00:00",800,903,16,successful
+661,BABE,4,1,1,"2013-11-27 00:00:00","2014-01-16 00:00:00",8220.71,8390.06,124,successful
+662,"All Rise: The Game With No Right Or Wrong Answers (Canceled)",66,2,2,"2015-01-14 00:00:00","2015-02-13 00:00:00",25000,76,6,canceled
+663,"Pango:  The Tool for Creating",15,2,2,"2014-09-25 00:00:00","2014-11-24 00:00:00",100000,3239,34,failed
+664,"Special Agents",44,2,2,"2015-09-14 00:00:00","2015-10-14 00:00:00",5000,0,0,failed
+665,"Press On Nails By Von Russ",34,2,2,"2017-08-14 00:00:00","2017-09-28 00:00:00",100,40,2,failed
+666,"Rockingtor AirCobra ULTIMATE MOUNTAINBIKE Knee-Shin GUARDS",8,10,6,"2016-06-29 00:00:00","2016-08-27 00:00:00",17908.71,205.95,3,canceled
+667,"Hana Signature Decks",70,2,2,"2017-03-28 00:00:00","2017-03-30 00:00:00",100,12701,101,successful
+668,"Larell Ahyon - Born Rebel (Canceled)",55,2,2,"2016-01-20 00:00:00","2016-03-19 00:00:00",1000,0,0,canceled
+669,Caricatures,27,1,1,"2015-11-27 00:00:00","2015-12-27 00:00:00",593.34,593.34,8,successful
+670,#teamawesome,18,1,1,"2014-02-21 00:00:00","2014-03-13 00:00:00",4978.43,0,0,failed
+671,"Sinful Reaper First Mixtape",55,2,2,"2015-02-27 00:00:00","2015-03-24 00:00:00",400,1,1,failed
+672,"BackEuro "An Artistic Adventure Documentary"",9,2,2,"2012-03-23 00:00:00","2012-05-12 00:00:00",8000,131,5,failed
+673,"Seeking Popper's Gold-A Journey of an Independent Prospector",9,2,2,"2013-08-06 00:00:00","2013-09-05 00:00:00",110000,935,7,failed
+674,"New Prone to Wander Music Videos",121,2,2,"2016-09-28 00:00:00","2016-10-23 00:00:00",1500,1540,16,successful
+675,"A2D Dance Company Presents: RELEASE",81,2,2,"2016-10-24 00:00:00","2016-11-23 00:00:00",3000,130,8,failed
+676,"Help CPMusic Make Their First CD!",3,2,2,"2012-08-03 00:00:00","2012-09-01 00:00:00",500,502,11,successful
+677,"KHVT's memorial skate garden in St. Louis Missouri!!!",26,2,2,"2013-04-17 00:00:00","2013-06-01 00:00:00",15000,15424.25,122,successful
+678,"Spare Any Change?",10,2,2,"2015-03-10 00:00:00","2015-04-09 00:00:00",100,2,1,failed
+679,"Red Room - A Terror Tale of Torture",33,2,2,"2016-08-24 00:00:00","2016-09-23 00:00:00",10000,95,2,failed
+680,"Raising Funds so I can produce my own LIVE jazz vocal DVD",41,2,2,"2010-11-05 00:00:00","2010-11-15 00:00:00",500,780,18,successful
+681,"Murphy’s Law Breaker - CARD Storage & Generator",8,22,13,"2016-10-20 00:00:00","2016-12-14 00:00:00",10394.29,34554.78,918,successful
+682,"Pared Down Productions",129,2,2,"2015-06-27 00:00:00","2015-08-26 00:00:00",4000,4409.77,88,successful
+683,"Class Act: Dance Hall Divas",9,2,2,"2017-06-24 00:00:00","2017-07-24 00:00:00",12000,12695,117,successful
+684,"Limited Swiss Skeleton Timepiece",15,2,2,"2014-04-02 00:00:00","2014-05-02 00:00:00",5000,1032,5,failed
+685,"LOCKSMITHS a thriller/horror short film",73,2,2,"2014-06-12 00:00:00","2014-07-27 00:00:00",25000,25269.61,206,successful
+686,"Robo-Western variety Show",16,2,2,"2015-06-26 00:00:00","2015-08-25 00:00:00",1000,1016,27,successful
+687,"A World I Wanna Live In",3,1,1,"2014-02-10 00:00:00","2014-03-12 00:00:00",3318.95,53.1,2,failed
+688,"Xpect the Un-Xpected CD release",55,2,2,"2010-10-28 00:00:00","2011-01-26 00:00:00",3000,125,2,failed
+689,"Help Publish the Declaration of Occupy Wall Street",26,2,2,"2011-11-19 00:00:00","2011-12-05 00:00:00",10000,10903.17,252,successful
+690,"PAGES, the world atlas for magazine enthusiasts",46,16,10,"2016-11-15 00:00:00","2016-12-19 00:00:00",27306.42,27788.18,178,successful
+691,"Stranger Days",35,2,2,"2016-09-17 00:00:00","2016-11-16 00:00:00",1500,20,1,failed
+692,"Algomah Acres Amplification Project",91,2,2,"2015-06-12 00:00:00","2015-08-11 00:00:00",3700,4240,40,successful
+693,"Yoga Mat Insoles, Greatest invention since.. Insoles",8,1,1,"2015-01-21 00:00:00","2015-02-19 00:00:00",1537.56,532,14,failed
+694,"Air Strap: A Camera Strap That Does More With Less",8,2,2,"2013-11-14 00:00:00","2014-01-10 00:00:00",15000,132023.5,2396,successful
+695,"Dream of Emerald Hill",47,1,1,"2015-01-03 00:00:00","2015-02-02 00:00:00",6127.17,6128.7,41,successful
+696,"Three Films Concerning Sex & Philosophical Concepts of Plato",47,1,1,"2013-07-09 00:00:00","2013-08-03 00:00:00",931.53,931.53,13,successful
+697,"OPEN A BOUTIQUE HOTEL IN PHUKET - Live the dream!!",12,1,1,"2017-09-18 00:00:00","2017-11-17 00:00:00",13195.75,211.13,4,failed
+698,"Finding Oasis",33,2,2,"2016-09-29 00:00:00","2016-11-28 00:00:00",3000,520,8,failed
+699,"The Ultimate Seahawks Tailgater",25,2,2,"2014-08-05 00:00:00","2014-09-04 00:00:00",30000,2,2,failed
+700,"They Too Shall Remember",9,3,3,"2014-05-09 00:00:00","2014-06-08 00:00:00",18434.88,835.1,10,failed
+701,"United States of Casseroles",6,2,2,"2014-08-04 00:00:00","2014-10-03 00:00:00",2000,51,5,failed
+702,"Broken Pieces Being Put Back Together",46,2,2,"2012-03-05 00:00:00","2012-04-04 00:00:00",5000,0,0,failed
+703,"The King is Dead - Card Game",14,1,1,"2016-03-17 00:00:00","2016-04-16 00:00:00",287.56,152.41,9,failed
+704,"From Bedrooms to Billions: The Amiga Years!",9,1,1,"2015-02-27 00:00:00","2015-03-29 00:00:00",74015.96,141072.95,2395,successful
+705,"Journey - A True Oldschool RPG - Create Your Own Party!",13,3,3,"2015-02-19 00:00:00","2015-03-20 00:00:00",2367.42,48.93,8,failed
+706,Orphans,33,2,2,"2015-07-21 00:00:00","2015-08-20 00:00:00",6000,0,0,failed
+707,"ZWEILICHT - A Shape-Shifting Lamp",8,7,6,"2017-08-30 00:00:00","2017-09-29 00:00:00",5902.98,3404.84,25,canceled
+708,"Trampoline debut full length album",3,3,3,"2016-09-25 00:00:00","2016-11-21 00:00:00",3706.17,0.74,1,failed
+709,Watney,63,2,2,"2015-11-16 00:00:00","2015-12-08 00:00:00",2500,2557.01,42,successful
+710,"Groceries Express (Canceled)",50,2,2,"2015-04-06 00:00:00","2015-05-06 00:00:00",35000,0,0,canceled
+711,"Finishing MFP (The Microlending Film Project)",9,2,2,"2011-07-11 00:00:00","2011-08-22 00:00:00",27000,7310,140,failed
+712,""Wednesday"",47,2,2,"2012-09-12 00:00:00","2012-10-12 00:00:00",2600,2697,42,successful
+713,"Stay Alive With Brod's Paracord Handmade Survival Gear",12,3,3,"2016-09-08 00:00:00","2016-10-08 00:00:00",1519.06,407.11,8,failed
+714,"Super Blow The Cartridge: The Retro Gaming Comic Book!",21,4,4,"2013-11-18 00:00:00","2013-12-18 00:00:00",886.37,2479.03,65,successful
+715,"Ti2 Sentinel X -- Aluminum Cache",8,2,2,"2013-06-01 00:00:00","2013-07-06 00:00:00",10000,40905.35,393,successful
+716,"Oh Expletive: Zombies, Unicorns and 8-bit Creatures!",27,2,2,"2012-01-09 00:00:00","2012-02-10 00:00:00",3000,32000,678,successful
+717,"Wolfnation Bay",46,2,2,"2016-09-13 00:00:00","2016-10-10 00:00:00",12500,1,1,failed
+718,"Mass Anthem - New Album",3,2,2,"2017-03-13 00:00:00","2017-04-12 00:00:00",10000,11040,102,successful
+719,"Sons & Daughters of Africa Awards [Global Broadcast]",20,2,2,"2014-03-26 00:00:00","2014-04-27 00:00:00",499999,10135,4,failed
+720,"One Of None Clothing (screen printing expansion)",18,2,2,"2012-09-22 00:00:00","2012-10-22 00:00:00",800,162,6,failed
+721,"Lego Batman: The Killing Joke Movie",24,2,2,"2015-04-07 00:00:00","2015-05-07 00:00:00",3000,70,2,failed
+722,"Breakin' Chainz New Single Release by Art Brown",3,11,2,"2014-11-09 00:00:00","2014-12-09 00:00:00",2000,16,0,undefined
+723,"Country Christian album titled "I Believe"",91,2,2,"2013-10-28 00:00:00","2013-11-13 00:00:00",5000,140,4,failed
+724,"Friendly Bin Disposable trash bin   www.friendly-bin.com",8,2,2,"2014-11-10 00:00:00","2014-12-10 00:00:00",15000,1336,38,failed
+725,"WASD - A Contagious New Flavor of 2D Platformer",44,2,2,"2012-10-11 00:00:00","2012-11-10 00:00:00",5000,210,4,failed
+726,"Type 1 Rider: A Documentary Film",9,2,2,"2011-05-19 00:00:00","2011-06-18 00:00:00",50000,3875,64,failed
+727,"gr8 vertical garden! grow with limited space!",6,2,2,"2015-03-31 00:00:00","2015-04-30 00:00:00",10000,0,0,failed
+728,"Enamel Terra"Spin" Compass Pin (Canceled)",8,2,2,"2011-09-24 00:00:00","2011-10-10 00:00:00",1500,0,0,canceled
+729,"Opera UK's Cosi fan tutte. An exciting production for 2014.",20,1,1,"2013-11-22 00:00:00","2013-12-22 00:00:00",4953.36,4956.66,19,successful
+730,"ZMJ Denim - Surving Up Curves (sizes 14 - 24)",18,2,2,"2013-04-29 00:00:00","2013-05-17 00:00:00",4000,4019,19,successful
+731,"No more phone numbers smartphone app!",50,12,8,"2015-01-28 00:00:00","2015-02-27 00:00:00",2999.15,10.2,5,failed
+732,"Joshua Poulette--Book fund/scholarship",1,2,2,"2017-06-30 00:00:00","2017-08-29 00:00:00",2000,316,5,failed
+733,"Naked Sea – Spencer Tunick Dead Sea Installation",101,2,2,"2011-04-26 00:00:00","2011-06-06 00:00:00",60000,116270,706,successful
+734,"P. Craig Russell Adult Coloring Book",21,2,2,"2016-08-16 00:00:00","2016-09-01 00:00:00",10000,16595,197,successful
+735,"FUNDING FOR NEW ZOMBIE-THEMED BOARD GAME PRODUCTION",14,1,1,"2016-05-18 00:00:00","2016-06-17 00:00:00",7143.57,100.01,7,failed
+736,"Easy iPhone & iPad App Distribution - Quickstart and Code",37,2,2,"2011-05-05 00:00:00","2011-06-04 00:00:00",3500,126,7,failed
+737,"FanATicket Campaign- Revolutionizing the Ticket Marketplace",50,2,2,"2017-09-18 00:00:00","2017-11-17 00:00:00",5000,1,1,failed
+738,"Relaunching in May",40,2,2,"2016-01-19 00:00:00","2016-02-18 00:00:00",85000,142,1,failed
+739,"Killer Whales of the North Pacific 2016 Special Edition DVD",9,2,2,"2017-01-19 00:00:00","2017-02-18 00:00:00",100,5,1,failed
+740,"DungeonCraft: Hero vs Guardian -Level 2- Upgraded Edition",14,2,2,"2012-10-29 00:00:00","2012-12-24 00:00:00",2500,11305,283,successful
+741,"Nonna Peppa's Kitchen",10,1,1,"2014-05-21 00:00:00","2014-06-20 00:00:00",3663.25,3774,39,successful
+742,"BUILD OHIO LOYALTY!",18,2,2,"2014-08-27 00:00:00","2014-10-01 00:00:00",23000,1,1,failed
+743,"B Side Vinyl- Purses made from repurposed LP Records",34,2,2,"2015-06-06 00:00:00","2015-07-06 00:00:00",2000,160,3,failed
+744,Monstersange,154,18,11,"2017-06-16 00:00:00","2017-07-11 00:00:00",3837.48,1016.93,37,canceled
+745,"My Sewing Dream",104,2,2,"2015-01-20 00:00:00","2015-02-19 00:00:00",8000,1,1,failed
+746,"FIVE IN COMMON.",4,2,2,"2015-03-05 00:00:00","2015-03-20 00:00:00",12000,0,0,failed
+747,"Josh Sawyer Band debut EP "Broken Chains"",91,2,2,"2012-09-27 00:00:00","2012-10-06 00:00:00",1000,1170,18,successful
+748,"My own studio (Suspended) (Suspended) (Suspended)",59,2,2,"2015-11-22 00:00:00","2016-01-21 00:00:00",2000,355,8,suspended
+749,"Extreme Jeopardy",69,2,2,"2015-05-13 00:00:00","2015-06-12 00:00:00",2750,5,1,failed
+750,"IOH: Fun New Card Game",14,2,2,"2013-11-05 00:00:00","2013-12-05 00:00:00",7000,237,13,failed
+751,"Foil Playing Cards - Crimson Red & Emerald Green",70,2,2,"2016-07-07 00:00:00","2016-07-18 00:00:00",2000,1656,44,failed
+752,Expressu,50,2,2,"2016-04-20 00:00:00","2016-05-20 00:00:00",275000,1,1,failed
+753,"West Michigan Capoeira's 3rd Annual Batizado",76,2,2,"2012-12-03 00:00:00","2013-01-12 00:00:00",4000,720,10,failed
+754,"Ranket Sauce, Finally The sauce we've been waiting for!!",5,2,2,"2016-02-13 00:00:00","2016-03-14 00:00:00",2700,51,2,failed
+755,"Krump the Right",47,2,2,"2016-09-28 00:00:00","2016-10-17 00:00:00",88000,500,5,failed
+756,"SVT Clothing",52,2,2,"2015-01-28 00:00:00","2015-03-29 00:00:00",4500,2,1,failed
+757,"Short film "WINGS"",62,4,4,"2015-10-12 00:00:00","2015-11-11 00:00:00",1427.86,1487.83,19,successful
+758,""I'm Published" School Project",46,2,2,"2013-05-30 00:00:00","2013-06-29 00:00:00",1500,57,3,failed
+759,"The Abortion Lullaby (Canceled)",115,3,3,"2014-07-30 00:00:00","2014-08-06 00:00:00",1099.3,0,0,canceled
+760,"AVERY, OFFLINE: A Short Film",47,2,2,"2013-07-08 00:00:00","2013-08-07 00:00:00",10000,17000,168,successful
+761,"C'èTutto - Original Italian Food Pack",86,6,6,"2017-02-26 00:00:00","2017-03-28 00:00:00",37418.35,49.18,3,failed
+762,"KOOBA: A totally unique new game of skill",14,2,2,"2010-07-13 00:00:00","2010-08-28 00:00:00",3000,3327,48,successful
+763,"Send In The Deans",10,2,2,"2015-09-23 00:00:00","2015-10-22 00:00:00",700,0,0,failed
+764,"Crystal Liquor & Spirits: A Business Model Reimagined",6,2,2,"2014-06-19 00:00:00","2014-08-03 00:00:00",10000,1630,10,failed
+765,"Wishbone: The World's Smallest Smart Thermometer",8,2,2,"2015-01-27 00:00:00","2015-02-26 00:00:00",20000,203188,4400,successful
+766,"SHAZAM! by Blue Frog Theatre",43,1,1,"2015-04-08 00:00:00","2015-05-10 00:00:00",2827.7,0,0,failed
+767,"Heidi's Pantry",5,1,1,"2014-10-08 00:00:00","2014-11-07 00:00:00",55368.36,0,0,failed
+768,"Farm Find",86,2,2,"2016-12-28 00:00:00","2017-01-27 00:00:00",1000,0,0,failed
+769,"Never Locked Out Musical Play",118,2,2,"2017-06-23 00:00:00","2017-07-23 00:00:00",700,0,0,failed
+770,"3 Singers : a techno opera",20,2,2,"2013-07-10 00:00:00","2013-09-08 00:00:00",5000,5025.5,52,successful
+771,"Bastion of Sun - Book Three of The Ronin Saga",33,2,2,"2016-06-17 00:00:00","2016-07-25 00:00:00",5000,6003.4,146,successful
+772,"Massacre at Estelle's",73,2,2,"2015-02-09 00:00:00","2015-03-31 00:00:00",85000,0,0,failed
+773,"D'ONT GIVE UP RAP ALBUM & VIDÉO",55,3,3,"2015-04-20 00:00:00","2015-06-19 00:00:00",48895.77,0.81,1,failed
+774,"Join the LOVE MOVEMENT",31,2,2,"2010-11-17 00:00:00","2010-12-10 00:00:00",3000,3375,48,successful
+775,"Liqueur-Infused Cakes",100,2,2,"2015-06-01 00:00:00","2015-07-01 00:00:00",25000,5138,45,failed
+776,"" SEND IN THE CLOWNS" (Canceled)",9,2,2,"2015-04-22 00:00:00","2015-06-13 00:00:00",1500,0,0,canceled
+777,"Interior Sketches II - an artist draws more Alaska history",17,2,2,"2015-03-20 00:00:00","2015-04-20 00:00:00",2230,3050,49,successful
+778,"Time Before Ago Series",79,2,2,"2017-12-19 00:00:00","2018-01-31 00:00:00",2000,0,0,live
+779,"KoLumbus 7 11/11/11",44,2,2,"2011-08-27 00:00:00","2011-09-26 00:00:00",770,946,15,successful
+780,"Custom Pretzels",6,2,2,"2015-04-29 00:00:00","2015-05-29 00:00:00",5000,0,0,failed
+781,"Printing artwork for art shows on the road",101,2,2,"2015-06-08 00:00:00","2015-07-11 00:00:00",15000,262,3,failed
+782,"Dragon Snack Games - Buffalo tabletop hobby game store",13,2,2,"2014-12-16 00:00:00","2014-12-31 00:00:00",2500,3230,57,successful
+783,"Walk Into the Night (Canceled)",47,2,2,"2012-02-24 00:00:00","2012-04-24 00:00:00",5000,0,0,canceled
+784,"the DAVE AND MITCH CHRONICLES",21,2,2,"2013-12-04 00:00:00","2014-01-03 00:00:00",5000,22,2,failed
+785,"Shows, shows and more damn shows",3,1,1,"2013-01-05 00:00:00","2013-01-31 00:00:00",475.01,598.52,18,successful
+786,"Designed By Sarah Taylor",12,1,1,"2016-04-22 00:00:00","2016-05-22 00:00:00",14647.51,2.93,2,failed
+787,"Le Grand Hat",18,2,2,"2014-11-25 00:00:00","2014-12-22 00:00:00",3500,5522,101,successful
+788,"Short film project, script-to-screen!",47,2,2,"2009-10-09 00:00:00","2009-10-30 00:00:00",10000,860,6,failed
+789,"The Unimaginable Journey Of Peter Ertel - a documentary film",9,2,2,"2015-11-10 00:00:00","2015-12-10 00:00:00",19000,50,1,canceled
+790,"Liberian Education Fund - A Documentary",9,2,2,"2014-05-19 00:00:00","2014-06-18 00:00:00",3000,3345,37,successful
+791,"Galactile Galactic Supremacy",14,3,3,"2014-07-24 00:00:00","2014-09-22 00:00:00",67494.6,0.9,1,failed
+792,"Send Friends HARIBOS",40,1,1,"2015-04-06 00:00:00","2015-05-06 00:00:00",6936.1,30.83,1,failed
+793,"Who Am I To Stop It",9,2,2,"2014-10-01 00:00:00","2014-11-01 00:00:00",12000,12307,138,successful
+794,"ShallowTails Inshore Fishing Academy",22,2,2,"2015-02-26 00:00:00","2015-03-28 00:00:00",9750,0,0,failed
+795,StealingKindness,47,2,2,"2011-08-02 00:00:00","2011-09-01 00:00:00",1000,1307,24,successful
+796,"Tuff Sunshine EP",11,2,2,"2012-02-01 00:00:00","2012-03-01 00:00:00",3000,3076,60,successful
+797,"Montana Whiskey Stones (Canceled)",7,2,2,"2014-09-16 00:00:00","2014-10-16 00:00:00",1000,1951,45,canceled
+798,"P'EAR - earphones proud",8,16,10,"2016-07-01 00:00:00","2016-07-31 00:00:00",15420.2,0,0,failed
+799,"Merzan (spectacular feature film)",95,2,2,"2014-05-23 00:00:00","2014-07-22 00:00:00",5000000,0,0,failed
+800,"ConFascist Says: MisFortune Cookies w Quotes by Donald Trump",6,2,2,"2017-03-01 00:00:00","2017-03-31 00:00:00",3750,2318,37,failed
+801,"Grayson Bell's Debut Solo Album",3,2,2,"2013-07-30 00:00:00","2013-08-31 00:00:00",7500,255,10,failed
+802,"Ellis Art Studio",26,2,2,"2016-01-28 00:00:00","2016-03-13 00:00:00",25000,1,1,failed
+803,"The Stretch Tarot - Relaunch",70,1,1,"2015-12-14 00:00:00","2016-01-13 00:00:00",4299.66,12082.04,191,successful
+804,"Hours & Hours of Motivation",8,1,1,"2015-09-24 00:00:00","2015-10-24 00:00:00",30679.55,0,0,failed
+805,"Promote poetry",1,2,2,"2015-04-27 00:00:00","2015-05-27 00:00:00",2000,1,1,failed
+806,"Planet SciFi Android App",50,13,6,"2016-04-15 00:00:00","2016-06-14 00:00:00",5064.32,49.52,4,failed
+807,"LFG - The Fork of Truth",44,2,2,"2013-06-20 00:00:00","2013-07-20 00:00:00",600000,225382.99,4201,failed
+808,"MaxStone : iPhone your Camera",8,2,2,"2013-12-22 00:00:00","2014-02-20 00:00:00",50000,172301.53,3674,successful
+809,Handsrest,8,7,6,"2017-09-01 00:00:00","2017-10-01 00:00:00",17560.5,176.78,9,failed
+810,"Tamago Poster:Inspired by 25 Traditional Japanese Egg Dishes",151,2,2,"2017-05-02 00:00:00","2017-05-31 00:00:00",1000,1715,50,successful
+811,"Beyond Environment",76,2,2,"2014-07-21 00:00:00","2014-09-04 00:00:00",5000,23,5,failed
+812,"Taupe - the second album.",3,1,1,"2016-07-02 00:00:00","2016-08-28 00:00:00",1992.59,2132.07,67,successful
+813,"The Adventures Of Superstoner Issue #2",16,2,2,"2014-11-25 00:00:00","2015-01-04 00:00:00",1500,114,3,failed
+814,"Escape Apocalypse",136,3,3,"2017-11-24 00:00:00","2017-12-24 00:00:00",19936.2,0,0,canceled
+815,"The Adapter of the texts for translation",37,10,6,"2016-12-02 00:00:00","2017-01-31 00:00:00",107410.23,0,0,failed
+816,"Poop 'n Pull.  The Ultimate Potty Training Experience.",8,2,2,"2015-03-24 00:00:00","2015-04-23 00:00:00",29000,8995,138,failed
+817,"greenaid garden",8,2,2,"2013-06-06 00:00:00","2013-07-06 00:00:00",100000,3187,35,failed
+818,"Flowers - Lenticular Prints",27,2,2,"2017-12-07 00:00:00","2018-01-21 00:00:00",250,0,0,live
+819,"8 Bytes Game Cafe",5,2,2,"2016-07-21 00:00:00","2016-08-20 00:00:00",5000,6172.61,104,successful
+820,"Foot Soldiers: Class of 1964",9,2,2,"2012-11-06 00:00:00","2012-11-19 00:00:00",2500,1156,22,failed
+821,"The Genetic Conservation Garden",26,1,1,"2014-12-04 00:00:00","2015-02-02 00:00:00",6127.17,6127.17,48,successful
+822,"CENTER CITY: The Pilot II",47,2,2,"2013-02-28 00:00:00","2013-03-21 00:00:00",10500,125,2,failed
+823,"The Star Band Chronicles: The Fall of Anterra Issue 2",21,2,2,"2016-10-04 00:00:00","2016-11-18 00:00:00",2500,744,37,failed
+824,"The Social Media Monthly",56,2,2,"2012-01-01 00:00:00","2012-03-01 00:00:00",20000,22928.77,284,successful
+825,"The Portal - Sound Installation for Burning Man - Fire Organ, Wind Harp, Performance",76,2,2,"2010-06-14 00:00:00","2010-07-20 00:00:00",6500,7560,89,successful
+826,"Unit Conversion app",37,1,1,"2014-11-12 00:00:00","2014-12-12 00:00:00",2199.36,15.71,1,failed
+827,"fLAT IS THE NEW BLACK - fLETCHERLOVELL WEARABLE ART FOOTWEAR",125,4,4,"2016-01-14 00:00:00","2016-02-06 00:00:00",3545.34,4729.49,38,successful
+828,"Alex Priest - A Genderqueer Vampire Hunter - #1 & 2",16,2,2,"2017-10-31 00:00:00","2017-11-30 00:00:00",1500,2101,114,successful
+829,"Souls' Journey: Meditation & Kabbalah CD",76,2,2,"2012-11-06 00:00:00","2012-12-06 00:00:00",3600,4102,41,successful
+830,"Pressed Penny Machine for Marquette, Michigan",39,2,2,"2017-02-23 00:00:00","2017-03-25 00:00:00",6500,2022,47,failed
+831,"The Real Fans Of The Saga - A Star Wars fan reality show!",23,2,2,"2016-05-25 00:00:00","2016-06-24 00:00:00",10000,10609,130,successful
+832,"Michael Castro - Just the two of us.",3,2,2,"2012-02-05 00:00:00","2012-03-10 00:00:00",9500,9638,175,successful
+833,"TRACKER: THE ULTIMATE MANHUNT",47,2,2,"2011-04-18 00:00:00","2011-06-17 00:00:00",30000,835,5,failed
+834,"Bangkok: Call Waiting",68,2,2,"2016-06-17 00:00:00","2016-07-17 00:00:00",18000,19880,66,successful
+835,"Casual Restaurant - Travel Around the World!",6,2,2,"2011-12-25 00:00:00","2012-02-04 00:00:00",30000,0,0,failed
+836,""Underneath": a noir short film",47,2,2,"2010-11-29 00:00:00","2011-01-13 00:00:00",500,575,13,successful
+837,"Seas of Chaos",14,2,2,"2014-03-14 00:00:00","2014-04-16 00:00:00",45000,2363,40,failed
+838,"Rescue Lanier's 87th Season and Let Our Artists Shine!",20,2,2,"2013-05-01 00:00:00","2013-05-31 00:00:00",68000,70442,143,successful
+839,"Memory Lane full length album",29,2,2,"2016-03-14 00:00:00","2016-04-18 00:00:00",3000,3900,38,successful
+840,"Profanity Adult Dot to Dot Book (Canceled)",27,1,1,"2015-12-27 00:00:00","2016-01-26 00:00:00",428.74,144.34,7,canceled
+841,"Big Ass Bowl",12,2,2,"2016-12-21 00:00:00","2017-02-19 00:00:00",100000,50,3,failed
+842,"Dogs & Stars Letterpress Studio Remodel",133,2,2,"2015-04-20 00:00:00","2015-05-20 00:00:00",10000,12675.21,235,successful
+843,"STAR PATROL: a hex & counter minigame of starship combat",14,2,2,"2015-08-01 00:00:00","2015-09-01 00:00:00",1650,25206,1880,successful
+844,"KBD T-SHIRS NEW SKATE BRAND",18,2,2,"2017-01-20 00:00:00","2017-02-19 00:00:00",5000,0,0,canceled
+845,"The EvoAngel, an environmental thriller",33,2,2,"2015-09-24 00:00:00","2015-10-31 00:00:00",2120,2427.88,31,successful
+846,"TRNSFR Magazine: Round Five!",46,2,2,"2011-04-07 00:00:00","2011-05-22 00:00:00",5000,1415,46,failed
+847,"Autumn Snow 2: The Wildlands Hunt",14,13,6,"2017-01-28 00:00:00","2017-02-27 00:00:00",4226.01,18252.12,228,successful
+848,"The Teen Voices Project",28,2,2,"2011-10-28 00:00:00","2011-12-17 00:00:00",10000,11567,144,successful
+849,"Project cancelled (Canceled)",10,11,1,"2014-08-29 00:00:00","2014-09-28 00:00:00",4819.9,281.16,0,undefined
+850,"From Girlhood to Womanhood: The Shanae Watkins Story",10,2,2,"2015-07-11 00:00:00","2015-09-09 00:00:00",10000,1580,11,failed
+851,"Making Magic: The Art of Gary A. Lippincott",17,2,2,"2013-06-07 00:00:00","2013-07-07 00:00:00",14000,23141.5,303,successful
+852,"Farm-to-Table Beef, Made Simple",6,2,2,"2017-11-16 00:00:00","2017-12-16 00:00:00",5000,1236,11,failed
+853,"Getting The Kinks Out",54,2,2,"2014-09-03 00:00:00","2014-10-06 00:00:00",50000,25,1,failed
+854,"Report Assist. The take along clipboard for your car.",12,2,2,"2015-02-21 00:00:00","2015-03-23 00:00:00",15000,0,0,failed
+855,"The Poor Theatre's 2016 Season!",20,2,2,"2016-05-09 00:00:00","2016-06-08 00:00:00",4000,4820,53,successful
+856,"Sea Cuties: Mermaid and Friends Enamel Pin Set",34,2,2,"2017-08-15 00:00:00","2017-09-16 00:00:00",500,3143,89,successful
+857,Farlight,14,2,2,"2017-03-01 00:00:00","2017-04-01 00:00:00",15000,44873,1433,successful
+858,"A unique live cd from the Midnight in LA piano concert",3,12,8,"2017-06-29 00:00:00","2017-07-28 00:00:00",615.02,177.74,4,failed
+859,""Unshakeable" : a documentary about artist John Himmelfarb",9,2,2,"2011-10-27 00:00:00","2011-12-26 00:00:00",20000,7630,64,failed
+860,"Queen of Chaos: Overmaster Edition",44,2,2,"2016-06-18 00:00:00","2016-07-13 00:00:00",1000,2,2,failed
+861,"Support my 1st Sculpture - Zabeel in Bronze",82,15,9,"2014-11-03 00:00:00","2014-12-03 00:00:00",9934.03,86.92,5,failed
+862,"Western Edge: an epic road trip to document West Coast art",31,2,2,"2012-11-05 00:00:00","2012-12-06 00:00:00",25000,27238,366,successful
+863,"Support Dead Language's first album!",35,2,2,"2012-04-08 00:00:00","2012-06-07 00:00:00",1500,1849.69,32,successful
+864,"INDYpendent Self-Published Comics Show",87,2,2,"2014-01-15 00:00:00","2014-02-22 00:00:00",500,846,36,successful
+865,"Greenvine Glassworks",149,2,2,"2015-02-23 00:00:00","2015-03-25 00:00:00",650,25,1,failed
+866,"kooky kroquet. Outdoor yard game",13,2,2,"2017-03-30 00:00:00","2017-04-29 00:00:00",90000,61,3,failed
+867,"Rooster's Potluck (Canceled)",10,2,2,"2013-09-19 00:00:00","2013-10-19 00:00:00",17007,70,2,canceled
+868,"iPulse - The Perfect Minimal Wallet Ever",8,2,2,"2017-07-24 00:00:00","2017-08-23 00:00:00",2000,1530,75,suspended
+869,"Send The UGA Accidentals to ICCA Finals in NYC",11,2,2,"2010-04-09 00:00:00","2010-04-24 00:00:00",3500,3805,54,successful
+870,"Patented Convex faced USGA conforming golf putters",58,2,2,"2016-03-01 00:00:00","2016-04-30 00:00:00",60000,36,3,failed
+871,"Eli Wilson School Graduation Project: 3D Printing",126,2,2,"2015-07-13 00:00:00","2015-08-12 00:00:00",700,40,2,failed
+872,"So I bleed! WHAT Everrrr...",18,3,3,"2015-11-02 00:00:00","2015-12-02 00:00:00",7497.94,0,0,failed
+873,"The Dwarves of Demrel",109,2,2,"2015-04-22 00:00:00","2015-05-21 00:00:00",40000,52837,740,successful
+874,"Big Red Rooster™ Rocket Ship Projection Alarm Clock",8,2,2,"2016-05-13 00:00:00","2016-06-19 00:00:00",5000,1154,33,suspended
+875,"Up Coming Artist From Long Island",55,2,2,"2012-11-01 00:00:00","2012-12-01 00:00:00",2000,0,0,failed
+876,"Would You Watch Over Him",59,2,2,"2015-02-05 00:00:00","2015-04-06 00:00:00",5000,0,0,failed
+877,"YogaHike World",9,2,2,"2017-06-05 00:00:00","2017-07-05 00:00:00",40000,6,2,failed
+878,"Ryan Hamilton : UK House Party Tour 2013",11,2,2,"2012-11-13 00:00:00","2012-12-31 00:00:00",4000,8105,170,successful
+879,"In the shadow of the red-light (Canceled)",4,1,1,"2012-12-12 00:00:00","2013-01-11 00:00:00",1612487.1,0,0,canceled
+880,"Persian Names (Movie)",24,2,2,"2013-10-09 00:00:00","2013-12-08 00:00:00",75000,1205,6,failed
+881,Thrall,33,2,2,"2014-06-09 00:00:00","2014-07-09 00:00:00",3750,115,5,failed
+882,"Candace D EP Release!",3,2,2,"2013-09-07 00:00:00","2013-10-22 00:00:00",2000,220,7,failed
+883,"Tales From The Shit House: Let's Take Back The Crapper",111,2,2,"2015-02-13 00:00:00","2015-03-15 00:00:00",50,0,0,failed
+884,"Strangers From Space (Working Title)",47,2,2,"2011-01-20 00:00:00","2011-02-09 00:00:00",800,3011.69,44,successful
+885,"Murphy's Law Moonshine!",100,3,3,"2015-09-23 00:00:00","2015-10-23 00:00:00",15305.73,15.31,1,failed
+886,"Untitled Blayne Weaver Project",2,2,2,"2014-09-21 00:00:00","2014-10-28 00:00:00",20000,21390,277,successful
+887,"Becoming Relig-ish: a guide for soulful living",46,2,2,"2015-05-30 00:00:00","2015-07-02 00:00:00",4000,4179,83,successful
+888,"Outerlands Parklet",26,2,2,"2012-07-12 00:00:00","2012-08-11 00:00:00",10000,10724.54,105,successful
+889,"Bad Luck Blackouts Live At John Henry's CD",72,2,2,"2015-02-24 00:00:00","2015-03-26 00:00:00",200,301,7,successful
+890,"Models by Charles (Canceled)",82,2,2,"2015-01-15 00:00:00","2015-02-14 00:00:00",20000,0,0,canceled
+891,"Scentiful - handgemachtes Duftwachs der besonderen Art",135,7,6,"2017-04-15 00:00:00","2017-05-06 00:00:00",706.94,77.22,4,failed
+892,"Affinity - social dating",50,1,1,"2017-12-08 00:00:00","2018-01-07 00:00:00",68198.87,98.21,1,live
+893,"Habitual: A Coffee Brewing Guide",56,2,2,"2015-08-24 00:00:00","2015-09-15 00:00:00",7000,10802,271,successful
+894,"The Last One: Unfolding the AIDS MEMORIAL QUILT",9,2,2,"2014-01-07 00:00:00","2014-02-06 00:00:00",35000,36082,271,successful
+895,"Barley the Magic Teddy Bear Book Donation",74,2,2,"2015-12-14 00:00:00","2016-01-13 00:00:00",4450,0,0,failed
+896,"J.A.M. Project",31,2,2,"2015-01-28 00:00:00","2015-02-27 00:00:00",200,286,10,successful
+897,"Odie Snacks, because little pigs love treats to.",6,2,2,"2014-03-10 00:00:00","2014-04-09 00:00:00",5400,0,0,failed
+898,"Carbogen - Roth's Child (feature length album)",55,2,2,"2013-02-07 00:00:00","2013-03-02 00:00:00",2800,65,5,failed
+899,"Love Animals - Debut EP Project",3,2,2,"2013-02-12 00:00:00","2013-03-14 00:00:00",1200,35,2,failed
+900,"Scrapbooking paradise",12,2,2,"2014-09-23 00:00:00","2014-10-31 00:00:00",150,2,2,failed
+901,"Nat & Quinn",23,2,2,"2015-07-02 00:00:00","2015-08-01 00:00:00",6000,395,7,failed
+902,"The Urban Chickens: First-Time Raising Backyard Chickens!",107,2,2,"2015-07-03 00:00:00","2015-08-02 00:00:00",750,0,0,failed
+903,"Flatpack: Fix the Future! Optimistic Apocalyptic RPG",13,2,2,"2012-01-12 00:00:00","2012-02-13 00:00:00",1000,7854.66,209,successful
+904,"Deportee EP",3,1,1,"2017-11-10 00:00:00","2017-12-11 00:00:00",1491.58,1725.68,55,successful
+905,"Soldier On Wants You! - to help make a record",3,2,2,"2012-07-05 00:00:00","2012-08-04 00:00:00",3750,4116,82,successful
+906,"Hero Stories and More",17,2,2,"2017-11-01 00:00:00","2017-12-01 00:00:00",20000,224,3,failed
+907,"Koala Camera Dolly (Canceled)",8,2,2,"2013-11-04 00:00:00","2013-12-13 00:00:00",25000,21244,13,canceled
+908,"Bicycle Imperium Playing Cards Deck",70,2,2,"2016-09-22 00:00:00","2016-10-22 00:00:00",7500,26893,505,successful
+909,"Into The Wild - photography exhibition",28,1,1,"2013-03-11 00:00:00","2013-04-11 00:00:00",921.64,92.16,3,failed
+910,"INSUREDA: An album by Rayvon Pettis",3,2,2,"2013-07-12 00:00:00","2013-08-26 00:00:00",500,770.89,15,successful
+911,"Blood Lust",16,2,2,"2017-03-19 00:00:00","2017-04-18 00:00:00",2000,62,6,failed
+912,""Yep, It's Rocket Science!" by Bob Windt",74,2,2,"2012-10-26 00:00:00","2012-12-10 00:00:00",10000,10174.59,76,successful
+913,""The Messenger" Series",23,2,2,"2012-01-31 00:00:00","2012-03-01 00:00:00",25000,0,0,failed
+914,"UnitFi Development",103,2,2,"2015-04-06 00:00:00","2015-05-06 00:00:00",5000,25,1,failed
+915,"VELLO BIKE+: the world's best electric folding bike",8,17,6,"2016-09-08 00:00:00","2016-11-07 00:00:00",87232.44,513770.73,278,successful
+916,"DDT Drive Don't Text",50,4,4,"2015-03-09 00:00:00","2015-05-09 00:00:00",44003.52,0,0,failed
+917,"Theory of the Evolution of Mind",127,2,2,"2015-07-07 00:00:00","2015-08-01 00:00:00",200000,9010,2,failed
+918,"Back my new wedding stationery and gifts venture",22,1,1,"2017-08-15 00:00:00","2017-09-14 00:00:00",509.54,539.43,31,successful
+919,"Color-Along Ukulele: A Method Book for People Drawn to Play",74,2,2,"2015-02-27 00:00:00","2015-04-02 00:00:00",4600,6634,147,successful
+920,"i will make you laugh!!!!!!!!!!!!!",54,8,6,"2017-05-11 00:00:00","2017-06-10 00:00:00",111.67,5.58,1,failed
+921,"Petri Wars",14,2,2,"2015-06-04 00:00:00","2015-07-06 00:00:00",16000,6023,123,failed
+922,"Orchids for my very mad girlfriend (Suspended)",12,2,2,"2014-07-29 00:00:00","2014-08-13 00:00:00",65,0,0,suspended
+923,"Planes Control - Release the Pilot Inside of You",66,7,6,"2016-05-10 00:00:00","2016-06-09 00:00:00",2260.81,880.58,21,failed
+924,"Super Mega Bob",44,2,2,"2014-03-31 00:00:00","2014-04-27 00:00:00",3000,912,44,failed
+925,"NIGHT GALLERY: Full Album Project",35,2,2,"2011-04-27 00:00:00","2011-05-27 00:00:00",2000,2805,47,successful
+926,"Seeking Ezra Clothing Launch",52,2,2,"2015-02-22 00:00:00","2015-03-31 00:00:00",2000,0,0,failed
+927,"Lodestar: Stygian Skies - Tactical Science Fiction RPG",44,2,2,"2012-05-16 00:00:00","2012-06-15 00:00:00",16384,4068.99,147,failed
+928,"One More Thing Before You Go...",9,2,2,"2010-11-28 00:00:00","2011-01-02 00:00:00",7000,0,0,failed
+929,"Dragon Wars Reboot Better Everything (Canceled)",64,2,2,"2015-06-30 00:00:00","2015-07-30 00:00:00",5000,0,0,canceled
+930,Barnstorming,33,2,2,"2013-11-04 00:00:00","2013-12-04 00:00:00",12000,2287,23,failed
+931,"The most elegant shock proof laptop bag",34,6,6,"2017-11-23 00:00:00","2017-12-23 00:00:00",5996.5,893.48,3,canceled
+932,"LinkDot WordPress Themes",37,2,2,"2015-09-01 00:00:00","2015-10-01 00:00:00",15000,0,0,failed
+933,"Backpacking Through Norway Vlog",9,2,2,"2017-06-02 00:00:00","2017-06-18 00:00:00",1000,1,1,failed
+934,"David Walsh, bowlmaker, Fine Wooden Bowls, Ltd. Edition #17",12,2,2,"2015-07-11 00:00:00","2015-07-21 00:00:00",250,5476,66,successful
+935,"Dead (Canceled)",44,2,2,"2012-08-07 00:00:00","2012-09-06 00:00:00",100000,343,8,canceled
+936,"The Pig Light Show Experience",76,2,2,"2013-01-24 00:00:00","2013-03-01 00:00:00",12000,1057,28,failed
+937,"Lala's Lollis: handcrafted homemade chocolate lollipops",6,2,2,"2013-12-19 00:00:00","2014-01-18 00:00:00",5000,105,2,failed
+938,"SOS! The Salton Sea Walk - Film",9,2,2,"2017-03-06 00:00:00","2017-04-05 00:00:00",3000,3050,29,successful
+939,"Kisoa Farms Madagascar",9,2,2,"2016-11-01 00:00:00","2016-12-01 00:00:00",10000,4218,74,failed
+940,"Polliwog's Guides to the Natural World- "One Giant Octopus"",74,2,2,"2012-11-21 00:00:00","2012-12-21 00:00:00",5000,1330,20,failed
+941,"Buggy Runner (Canceled)",66,2,2,"2015-11-09 00:00:00","2015-12-09 00:00:00",100000,0,0,canceled
+942,"Play Ball!  America's Favorite Pastime",14,2,2,"2013-09-08 00:00:00","2013-10-23 00:00:00",25000,1977,13,failed
+943,"States, Firms, & Households: the search for equilibrium",44,3,3,"2015-12-22 00:00:00","2016-02-20 00:00:00",36911.27,0.74,1,canceled
+944,"Mo Flex (Arm Unit) "5-100 lbs of wgt torque"",36,2,2,"2016-05-25 00:00:00","2016-07-24 00:00:00",16000,1,1,failed
+945,"Cartes Infernales",89,2,2,"2012-04-10 00:00:00","2012-05-10 00:00:00",3666,26042.5,447,successful
+946,"The Perfect Polo (Canceled)",18,2,2,"2013-06-29 00:00:00","2013-08-13 00:00:00",7500,475,8,canceled
+947,"Join the voyage to Europa!",20,2,2,"2013-06-27 00:00:00","2013-07-15 00:00:00",2000,2223,58,successful
+948,"Fantastic Funnel Cakes",25,2,2,"2015-08-04 00:00:00","2015-08-30 00:00:00",4600,0,0,failed
+949,"Freedom Riders 2012",9,2,2,"2012-03-19 00:00:00","2012-04-18 00:00:00",15000,1005,2,failed
+950,"Geoffrey Louis Koch "FOLLOW THE VOICES" - New Record!",11,2,2,"2014-06-03 00:00:00","2014-07-08 00:00:00",6000,6050,91,successful
+951,"For the Love of Peanut Butter: A Photo Book",61,2,2,"2016-03-15 00:00:00","2016-04-29 00:00:00",3750,18492,187,successful
+952,"Cornerford | Gentlemen Time Pieces | London Watch Collection",8,1,1,"2015-01-19 00:00:00","2015-02-18 00:00:00",3075.13,3261.17,10,successful
+953,"Green Spirit Farms Organic Rotary Vertical Farming",58,2,2,"2012-09-25 00:00:00","2012-10-24 00:00:00",67000,698,20,failed
+954,"The Mighty Shall Inherit The Earth",112,2,2,"2016-01-04 00:00:00","2016-02-03 00:00:00",3000,1,1,failed
+955,"Hive Mind",21,2,2,"2014-08-10 00:00:00","2014-09-04 00:00:00",1000,1310,45,successful
+956,"AVEN CLOTHING: Vintage-Contemporary Inspired Boys Wear.",18,2,2,"2013-10-29 00:00:00","2013-11-26 00:00:00",25000,740,13,canceled
+957,"TRUMP this...",14,2,2,"2016-04-19 00:00:00","2016-05-11 00:00:00",1000,1516,48,successful
+958,"An Emerging Artist's Debut in 2012 Art Festival",28,2,2,"2012-01-10 00:00:00","2012-03-10 00:00:00",2250,125,2,failed
+959,"You make the call",40,2,2,"2014-08-27 00:00:00","2014-10-26 00:00:00",1000,0,0,failed
+960,"SAVE LIVES - HELP YOUNG PEOPLE STAY OFF DRUGS!!!",14,2,2,"2012-02-21 00:00:00","2012-04-20 00:00:00",12500,278,8,failed
+961,"Pitch and Hit Card Baseball",14,2,2,"2017-09-12 00:00:00","2017-10-12 00:00:00",10000,461,10,failed
+962,"Air Race F1 - TV production",9,1,1,"2014-02-25 00:00:00","2014-03-27 00:00:00",24949.68,166.33,1,failed
+963,"Fate of the Hopeless :: Music Video, New Music",35,2,2,"2011-09-10 00:00:00","2011-10-20 00:00:00",2500,195,9,failed
+964,"U.S. Teas Its not just Ice Tea, It's a social movement !",7,2,2,"2016-05-16 00:00:00","2016-06-30 00:00:00",50000,0,0,failed
+965,"Our Fun, Feel-Better Book Project",74,2,2,"2013-08-19 00:00:00","2013-10-03 00:00:00",8000,8326,93,successful
+966,"Henry Cowell CD",88,2,2,"2011-04-21 00:00:00","2011-05-21 00:00:00",2000,2164,34,successful
+967,"When I Close My Eyes",13,2,2,"2017-08-06 00:00:00","2017-09-05 00:00:00",2000,97,5,failed
+968,"Drum "Featurette" to Feature",47,2,2,"2011-12-15 00:00:00","2012-01-14 00:00:00",5000,20,2,failed
+969,"Paracord Galore",22,2,2,"2016-05-10 00:00:00","2016-06-09 00:00:00",500,10,1,failed
+970,"World's First Mobile Bike Cleaning Machine - cycleWASH DUO",58,7,6,"2016-10-27 00:00:00","2016-11-21 00:00:00",50841.53,11.65,3,failed
+971,"New Year's Gala for unveiling of Historic Opera Relic",88,2,2,"2013-05-11 00:00:00","2013-06-10 00:00:00",300000,0,0,failed
+972,"NO_SHOCK LEASH FOR DOGS",58,6,6,"2016-12-04 00:00:00","2017-01-03 00:00:00",21177.92,63.53,2,failed
+973,"360 Balloon Ride to Space - Experience A VR Trip to Space!",137,3,3,"2015-03-16 00:00:00","2015-04-15 00:00:00",5331.8,277.25,14,failed
+974,".zebre T-shirts",52,2,2,"2016-06-08 00:00:00","2016-07-08 00:00:00",100,15,1,failed
+975,"Schoolbooks & Sorcery - YA Anthology",45,2,2,"2017-06-01 00:00:00","2017-07-01 00:00:00",6000,8351,378,successful
+976,"Jermyn Street Theatre presents The Potsdam Quartet",20,1,1,"2013-10-09 00:00:00","2013-10-28 00:00:00",9733.68,9942.71,38,successful
+977,"The Prids Documentary",4,2,2,"2011-03-01 00:00:00","2011-04-02 00:00:00",2550,2630.77,56,successful
+978,"The Hollow Waltz Film Series",23,2,2,"2013-12-26 00:00:00","2014-02-24 00:00:00",3000,180,4,failed
+979,"bleubird-(8mm)Pimp Hand VIDEO",4,2,2,"2011-11-11 00:00:00","2011-12-14 00:00:00",3000,3330,69,successful
+980,"The Shimmering Sentinel: Sexiest Fidget Spinner on Earth",8,2,2,"2017-06-07 00:00:00","2017-07-07 00:00:00",15000,4002,27,failed
+981,"Send It.  A documentary on the life of an average freeskier.",9,2,2,"2011-11-04 00:00:00","2011-12-02 00:00:00",3000,0,0,failed
+982,"FRIDGEPONG - Play Beer Pong w/ Magnetic Darts On Your Fridge",14,2,2,"2017-08-08 00:00:00","2017-09-17 00:00:00",5000,3496,85,canceled
+983,"Strangely And Shay: Reykjavictory!",11,2,2,"2014-05-23 00:00:00","2014-06-28 00:00:00",4000,4463.03,110,successful
+984,"Art that Saves Lives",31,2,2,"2009-09-09 00:00:00","2009-12-07 00:00:00",1000,1245,40,successful
+985,"Blood Quarry: a novel approach to publishing",33,2,2,"2017-10-30 00:00:00","2017-11-27 00:00:00",5000,5309,53,successful
+986,"Lithic Nutrition - Cricket-based Paleo Bars and Powders",6,2,2,"2016-09-27 00:00:00","2016-11-02 00:00:00",10000,12160,169,successful
+987,"'They of Star' (Canceled)",46,15,9,"2014-04-29 00:00:00","2014-06-13 00:00:00",34626.04,779.09,21,canceled
+988,"Tallon Bastable: Tales of Grimcaster",33,1,1,"2016-10-12 00:00:00","2016-11-19 00:00:00",12434.56,13.68,2,failed
+989,"AUTOMATICA ONE Dive Watch by Mansfield Time",34,2,2,"2016-03-21 00:00:00","2016-04-20 00:00:00",25000,137385,505,successful
+990,"Notes From the Men's room - A College Story",33,2,2,"2015-05-17 00:00:00","2015-06-16 00:00:00",2000,50,1,failed
+991,"Board Game Bowls upgraded",14,15,9,"2017-11-06 00:00:00","2017-11-27 00:00:00",1027.61,26525.31,398,successful
+992,""One Person Rally: I Have Something to Say" Photo Book",17,2,2,"2013-03-21 00:00:00","2013-04-20 00:00:00",8000,1559,70,failed
+993,"Illumicase: Customizable, Illuminating iPhone Cases",8,2,2,"2015-09-15 00:00:00","2015-10-21 00:00:00",30000,2360,29,failed
+994,"Rain Case - TV Entertainment for your "Great Outdoors"",8,2,2,"2013-02-18 00:00:00","2013-03-23 00:00:00",20000,2459,13,failed
+995,"Life in Cambodia (Canceled)",28,2,2,"2013-03-21 00:00:00","2013-05-20 00:00:00",4500,20,3,canceled
+996,"Nudge | The Instant Messaging App Like No Other!",58,1,1,"2013-06-16 00:00:00","2013-07-16 00:00:00",228902.79,3282.47,248,failed
+997,"The Letter Black - New Record",35,2,2,"2016-12-19 00:00:00","2017-01-18 00:00:00",25000,34660,859,successful
+998,"Handmade Japanese Wooden Headphones (Canceled)",8,2,2,"2016-04-12 00:00:00","2016-05-12 00:00:00",50000,11261,67,canceled
+999,"Paria Exchange at Dave's Leicester Comedy Festival",118,1,1,"2015-11-20 00:00:00","2015-12-20 00:00:00",223.65,342.93,17,successful
+1000,"Udgivelse: Månen og jeg",3,18,11,"2016-08-16 00:00:00","2016-09-25 00:00:00",1198.29,1250.71,28,successful
